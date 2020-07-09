@@ -1,0 +1,194 @@
+---
+title: "Pirates Outlaws cards NLP"
+author: "Jackie Lu"
+date: '2020-07-04'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Exploratory data analysis
+```{r}
+library(dplyr)
+library(stringr)
+
+PO1 <- read.csv("PO.csv")
+
+# Change column names
+colnames(PO1) <- tolower(colnames(PO1))
+colnames(PO1) <- str_replace(colnames(PO1), "\\.", "_")
+colnames(PO1)[colnames(PO1) == "map"] <- "set"
+
+# Grab all health cost cards
+health_cost1 <- PO1[str_which(PO1$description,
+                              "(lose \\d HP)|(take \\d damage)"), ]
+health_cost2 <- PO1[str_which(PO1$cost,
+                              "health"), ]
+# Note that some of them are not actually used for health cost purposes.
+# Particularly, the curse card Poisoned, and the consumable Armistice.
+
+# Get a list of all the base curse removal cards
+curse_removal1 <- PO1[str_which(PO1$description, "curse|Curse"), ]
+
+# Remove the created data sets
+rm(health_cost1, health_cost2, curse_removal1)
+```
+
+
+```{r}
+# Function that takes a vector of card descriptions, removes damage scaling
+# cards, and strips it down to expected damage
+card_damage <- function(desc_vect){
+  library(stringr)
+  # Convert multi-hit cards into math expressions for damage
+  desc_vect <- str_replace(
+    desc_vect,
+    "^.*(\\d|\\d\\d) damage (\\d|\\d\\d|\\d\\-\\d) times.*$",
+    "\\1 * \\2"
+    )
+  # Convert variable (2-6) numbers to lowest possible number
+  desc_vect <- str_replace(desc_vect, "(\\d)-\\d", "\\1")
+
+  # Filter out the variable damage cards
+  # (cards with conditional damage increases)
+  # desc_vect <- desc_vect[-str_which(
+  #   desc_vect,
+  #   "^.*[^\\d](\\d+) damage.*(\\+( ?)\\d damage|increases damage).*$"
+  #   )]
+
+  # Reduce the strings down to the damage numbers
+  desc_vect <- str_replace(desc_vect, "^.*?[:space:](\\d+) damage.*$",
+                           "\\1")
+
+  # Convert the multihits into a single damage number
+  desc_vect <- purrr::map_chr(desc_vect, function(x) eval(parse(text = x)))
+  desc_vect <- as.numeric(desc_vect)
+  return(desc_vect)
+}
+
+# Function that takes a string of "# ammo" and reduces it to just the number
+# '#' is a placeholder for a single digit number.
+card_ammo <- function(ammo_vect){
+  library(stringr)
+  # strip everything except the numbers
+  ammo_vect <- str_replace(ammo_vect, "(\\d) ammo", "\\1")
+  ammo_vect <- as.numeric(ammo_vect)
+  return(ammo_vect)
+}
+```
+
+Get a list of melee cards in Lost Islands, Northern Lands, and Eastern Seas
+```{r}
+melee_li_1 <- filter(PO1, set == ("Lost Islands"), card_type == "Melee")
+melee_nl_1 <- filter(PO1, set == ("Northern Lands"), card_type == "Melee")
+melee_es_1 <- filter(PO1, set == ("Eastern Seas"), card_type == "Melee")
+
+# All melee cards from the last three maps
+melee_h_1 <- rbind(melee_li_1, melee_nl_1, melee_es_1)
+
+# Remove the data set fragments
+rm(melee_li_1, melee_nl_1, melee_es_1)
+
+# Filter out specific melee cards
+# Blind Charge has no number before the word 'damage'
+melee_h_1 <- filter(melee_h_1, name != "Blind Charge")
+# Furious Blows does increasing damage based on rage stacks
+melee_h_1 <- filter(melee_h_1, name != "Furious Blow")
+
+# Use the function
+melee_h_1$description <- card_damage(melee_h_1$description)
+melee_h_1$upgraded_description <- card_damage(melee_h_1$upgraded_description)
+
+# Fix Back from the Brink
+melee_h_1$description[14] <- 6
+melee_h_1$upgraded_description[14] <- 9
+```
+
+Get a list of ranged cards in Lost Islands, Northern Lands, and Eastern Seas
+```{r}
+ranged_li_1 <- filter(PO1, set == ("Lost Islands"), card_type == "Ranged")
+ranged_nl_1 <- filter(PO1, set == ("Northern Lands"), card_type == "Ranged")
+ranged_es_1 <- filter(PO1, set == ("Eastern Seas"), card_type == "Ranged")
+
+# All melee cards from the last three maps
+ranged_h_1 <- rbind(ranged_li_1, ranged_nl_1, ranged_es_1)
+
+# Remove the data set fragments
+rm(ranged_li_1, ranged_nl_1, ranged_es_1)
+
+# Use the function
+ranged_h_1$description <- card_damage(ranged_h_1$description)
+ranged_h_1$upgraded_description <- card_damage(ranged_h_1$upgraded_description)
+
+# Hard Code Barrel Bundle to its average
+ranged_h_1$description[31] <- 36 * 0.75
+ranged_h_1$upgraded_description[31] <- 40 * 0.75
+
+# Hard code Ice Spike to have 2 ammo (its average)
+ranged_h_1$cost[15] <- "2 ammo"
+ranged_h_1$upgraded_cost[15] <- "2 ammo"
+# Reduce the ammo costs to just numbers
+ranged_h_1$cost <- card_ammo(ranged_h_1$cost)
+ranged_h_1$upgraded_cost <- card_ammo(ranged_h_1$upgraded_cost)
+# Create a column for damage / ammo spent
+ranged_h_1$damage_per_ammo <- ranged_h_1$description / ranged_h_1$cost
+```
+
+
+Debugging the function
+```{r}
+asdf <- as.character(melee_h_1$description[15])
+desc_vect <- asdf
+
+# Reduce the strings down to the damage numbers
+  desc_vect <- str_replace(desc_vect, "^.*[^\\d](?<!\\-)(\\d+)? damage.*$",
+                           "\\1")
+```
+
+
+Plotting damage for the cards
+```{r, fig.width = 10, fig.height = 8}
+library(ggplot2)
+
+# Melee plot
+ggplot(melee_h_1, aes(x = reorder(name, -description), y = description)) +
+  geom_col(aes(fill = set)) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),
+        axis.text = element_text(size = 16),
+        axis.title = element_text(size = 20, face = "bold"),
+        plot.title = element_text(size = 20, face = "bold"),
+        legend.text = element_text(size = 14),
+        legend.title = element_text(size = 16, face = "bold")) +
+  labs(title = "Min. damage of melee cards in the last 3 maps",
+       x = "Card name", y = "Min. damage")
+
+# Ranged damage plot
+ggplot(ranged_h_1, aes(x = reorder(name, -description), y = description)) +
+  geom_col(aes(fill = set)) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),
+        axis.text = element_text(size = 16),
+        axis.title = element_text(size = 20, face = "bold"),
+        plot.title = element_text(size = 20, face = "bold"),
+        legend.text = element_text(size = 14),
+        legend.title = element_text(size = 16, face = "bold")) +
+  labs(title = "Damage of ranged cards in the last 3 maps",
+       x = "Card name", y = "Damage")
+
+# Range damage per ammo plot
+ggplot(ranged_h_1, aes(x = reorder(name, -damage_per_ammo),
+                       y = damage_per_ammo)) +
+  geom_col(aes(fill = set)) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),
+        axis.text = element_text(size = 16),
+        axis.title = element_text(size = 20, face = "bold"),
+        plot.title = element_text(size = 20, face = "bold"),
+        legend.text = element_text(size = 14),
+        legend.title = element_text(size = 16, face = "bold")) +
+  labs(title = "Damage per ammo of ranged cards in the last 3 maps",
+       x = "Card name", y = "Damage per ammo")
+```
+
+
+

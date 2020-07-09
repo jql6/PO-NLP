@@ -1,0 +1,530 @@
+﻿Name,Card type,Cost,Upgraded cost,Map,Description,Upgraded description
+Punch,Melee,NA,NA,Heroes,Deals 6 damage.,Deals 9 damage.
+Cleave,Melee,NA,NA,Heroes,Deals 7 damage.,Deals 10 damage.
+Kick,Melee,NA,NA,Heroes,Deals 8 damage and knocks back the target.,Deals 12 damage and knocks back the target.
+Misdirect,Melee,NA,NA,Heroes,Deals 5 damage and critical hit to enemy behind target.,Deals 8 damage and critical hit to enemy behind target.
+Precision Throw,Melee,NA,NA,Pirates Bay,"Can target any enemy, dealing 5 damage, and applies Blind x1.","Can target any enemy, dealing 5 damage, and applies Blind x2."
+Coin Cleave,Melee,NA,NA,Heroes,Deals 6 damage + additional damage based on amount of Coins you have.,Deals 8 damage + additional damage based on amount of Coins you have.
+Double Edge,Melee,NA,NA,Pirates Bay,Deals 10 damage. You lose 2 HP.,Deals 14 damage. You lose 2 HP.
+Precision Strike,Melee,NA,NA,Pirates Bay,Deals 7 damage. Always hits.,Deals 10 damage. Always hits.
+Flurry,Melee,NA,NA,Pirates Bay,Deals 3 damage 3 times.,Deals 4 damage 3 times.
+Disarm,Melee,NA,NA,Pirates Bay,Deals 6 damage and applies Weakened x1.,Deals 8 damage and applies Weakened x2.
+Knee Spike,Melee,NA,NA,Pirates Bay,Deals 7 damage. Draw a card if your hand is empty.,Deals 10 damage. Draw a card if your hand is empty.
+Iron Hook,Melee,NA,NA,Pirates Bay,"Can target any enemy, dealing 5 damage, and grabbing them towards you.","Can target any enemy, dealing 8 damage, and grabbing them towards you."
+Heavy Blow,Melee,NA,NA,Pirates Bay,Deals 7 damage and critical hit to enemies with armor.,Deals 10 damage and critical hit to enemies with armor.
+Meat Cleaver,Melee,NA,NA,Pirates Bay,Deals 5 damage and applies Injury x2.,Deals 7 damage and applies Injury x3.
+Shovel Blow,Melee,NA,NA,Pirates Bay,Deals 10 damage. Adds a Handcuff to your draw pile.,Deals 14 damage. Adds a Handcuff to your draw pile.
+Nailed Club,Melee,NA,NA,Pirates Bay,Deals 6 damage + 1 damage per Injured effect on target.,Deals 9 damage + 1 damage per Injured effect on target.
+Bottle,Melee,NA,NA,Pirates Bay,Deals 6 damage. Adds 1 Broken Bottle to discard pile. Removed.,Deals 9 damage. Adds 1 upgraded Broken Bottle to discard pile. Removed.
+Broken Bottle,Melee,NA,NA,Pirates Bay,Deals 9 damage.,Deals 13 damage.
+Whirlwind,Melee,NA,NA,Pirates Bay,Deals 2 damage 4 times.,Deals 3 damage 4 times.
+Hilt Blow,Melee,NA,NA,Pirates Bay,Deals 7 damage and gain Dodge x1 if you do not have armor.,Deals 8 damage and gain Dodge x2 if you do not have armor.
+Throw Knife,Melee,NA,NA,Pirates Bay,"Can target any enemy, dealing 10 damage. Removed.","Can target any enemy, dealing 14 damage. Removed."
+All In,Melee,NA,NA,Pirates Bay,Deals 12 damage. Lose all armor and cannot gain armor this turn.,Deals 16 damage. Lose all armor and cannot gain armor this turn.
+Weighty Blow,Melee,NA,NA,Pirates Bay,Deals 3 damage +2 damage per relic.,Deals 3 damage +3 damage per relic.
+Pierce,Melee,NA,NA,Pirates Bay,Deals 8 damage. Penetration.,Deals 12 damage. Penetration.
+Sweep,Melee,NA,NA,Pirates Bay,Deals 8 damage to all enemies. Removed.,Deals 12 damage to all enemies. Removed.
+Backstab,Melee,NA,NA,Pirates Bay,"Deals 6 damage. If an enemy is killed this way, heal 6.","Deals 9 damage. If an enemy is killed this way, heal 9."
+Booster Strike,Melee,NA,NA,Pirates Bay,Deals 6 damage and increases damage of all Boosters by 2 this battle.,Deals 8 damage and increases damage of all Boosters by 3 this battle.
+One vs Many,Melee,NA,NA,Pirates Bay,Deals 3 damage +3 damage per enemy alive.,Deals 4 damage +4 damage per enemy alive.
+Chain Strike,Melee,NA,NA,Pirates Bay,Deals 5 damage to all enemies.,Deals 7 damage to all enemies.
+Bayonet Charge,Melee,NA,NA,Pirates Bay,Deals 6 damage. This deals +3 damage this battle.,Deals 8 damage. This deals +4 damage this battle.
+Fencer's Rush,Melee,NA,NA,Pirates Bay,Deals 2 damage 2-6 times.,Deals 3 damage 2-6 times.
+Flying Kick,Melee,NA,NA,Heroes,"Deals 4-9 damage, fixed when add to hand.","Deals 6-12 damage, fixed when add to hand."
+Strength,Melee,NA,NA,Heroes,Deals 1 damage 4 times. Critical hit if The Fool is in your hand.,Deals 1 damage 6 times. Critical hit if The Fool is in your hand.
+Tame,Melee,NA,NA,Heroes,Deals 6 damage. Change the action of the bear.,Deals 9 damage. Change the action of the bear.
+Bear Paws,Melee,NA,NA,Heroes,Deals 4 damage 2 times.,Deals 6 damage 2 times. 25% Lifesteal.
+Specter Cleave,Melee,NA,NA,Heroes,Deals 6 damage. Deals 10 damage when you are Ignited.,Deals 9 damage. Deals 13 damage when you are Ignited.
+Shovel Strike,Melee,NA,NA,Heroes,Deals 6 damage. Deals 12 damage instead if you have no armor.,Deals 9 damage. Deals 15 damage instead if you have no armor.
+Scratches,Melee,NA,NA,Heroes,Deals 3 damage 2 times.,Deals 5 damage 2 times.
+Scissors,Melee,NA,NA,Packages,Deals 5-10 damage.,Deals 7-13 damage.
+Paper,Melee,NA,NA,Packages,Deals 7 damage. Critical hit to Weakened enemies.,Deals 10 damage. Critical hit to Weakened enemies.
+Demonic Blade,Melee,NA,NA,Packages,Deals 15 damage. Increases this card's damage this journey by 1. Lose 1 max HP.,Deals 20 damage. Increases this card's damage this journey by 1. Lose 1 max HP.
+Harpoon,Melee,NA,NA,Packages,Deals 8 damage. 50% Lifesteal if you are Drunk.,Deals 12 damage. 50% Lifesteal if you are Drunk.
+Double Kick,Melee,NA,NA,Packages,Deals 4 damage 2 times and knocks back the enemy for each hit.,Deals 6 damage 2 times and knocks back the enemy for each hit.
+Shoot,Ranged,1 ammo,1 ammo,Heroes,Deals 6 damage.,Deals 9 damage.
+Double Shot,Ranged,2 ammo,2 ammo,Heroes,Deals 6 damage 2 times.,Deals 9 damage 2 times.
+Barrage,Ranged,3 ammo,3 ammo,Pirates Bay,Deals 5 damage to a random enemy 6 times.,Deals 6 damage to a random enemy 6 times.
+Bombard,Ranged,1 ammo,1 ammo,Pirates Bay,"Deals 7 damage, 50% chance for critical hit.","Deals 10 damage, 50% chance for critical hit."
+Coin Cannon,Ranged,1 ammo,1 ammo,Heroes,Deals 6 damage + additional damage based on amount of Coins you have.,Deals 8 damage + additional damage based on amount of Coins you have.
+Auto Cannon,Ranged,2 ammo,2 ammo,Pirates Bay,Deals 9 damage and reload 1.,Deals 12 damage and reload 1.
+Spray,Ranged,3 ammo,3 ammo,Pirates Bay,Deals 15 damage to all enemies.,Deals 18 damage to all enemies.
+Two Birds with One,Ranged,2 ammo,2 ammo,Pirates Bay,Deals 9 damage to the target and the enemy behind target.,Deals 13 damage to the target and the enemy behind target.
+Quick Shot,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 6 damage. Draw a card.,Deals 8 damage. Draw a card.
+Chain Shot,Ranged,3 ammo,3 ammo,Pirates Bay,Deals 4 damage 5 times.,Deals 6 damage 5 times.
+Smoke Bomb,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 6 damage and applies Blind x1.,Deals 8 damage and applies Blind x2.
+Throw Shield,Ranged,1 ammo,1 ammo,Pirates Bay,Deals damage equal to your armor and lose 5 armor.,Deals damage equal to your armor.
+Assault,Ranged,1 ammo,1 ammo,Pirates Bay,"Deals 7 damage, critical hit on enemies with full HP.","Deals 10 damage, critical hit on enemies with full HP."
+Suppressing Fier,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 7 damage and knocks back the target.,Deals 10 damage and knocks back the target.
+Secret Weapon,Ranged,3 ammo,3 ammo,Pirates Bay,Deals 25 damage. Stay.,Deals 30 damage. Stay.
+Powder Barrel,Ranged,2 ammo,2 ammo,Pirates Bay,Deals 10 damage to target and 5 damage to adjacent enemies.,Deals 14 damage to target and 7 damage to adjacent enemies.
+Find Weakness,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 8 damage. Critical hit to Injured enemies.,Deals 12 damage. Critical hit to Injured enemies.
+Piercing Shot,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 8 damage. Penetration.,Deals 12 damage. Penetration.
+Bomb Fiesta,Ranged,2 ammo,2 ammo,Pirates Bay,Deals 5 damage to a random enemy 3 times.,Deals 7 damage to a random enemy 3 times.
+Blast,Ranged,3 ammo,3 ammo,Pirates Bay,Deals 24 damage.,Deals 30 damage.
+Throw Bomb,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 7 damage. Draw 2 cards if target is Injured.,Deals 10 damage. Draw 2 cards if target is Injured.
+Cleansing Shot,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 8 damage. Remove 1 Curse from your hand.,Deals 10 damage. Remove 2 Curses from your hand.
+Fire at Will,Ranged,3 ammo,3 ammo,Pirates Bay,Deals 4 damage to a random enemy 7 times.,Deals 5 damage to a random enemy 7 times.
+Empty the Barrels,Ranged,X ammo,X ammo,Pirates Bay,Spends all ammo to deal 7 damage X times.,Spends all ammo to deal 10 damage X times.
+Tactical Shot,Ranged,1 ammo,1 ammo,Pirates Bay,"Deals 7 damage. If an enemy is killed this way, reload to max.","Deals 10 damage. If an enemy is killed this way, reload to max."
+Lethal Shot,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 6 damage. Automatic kill on enemies with less than 12 HP.,Deals 9 damage. Automatic kill on enemies with less than 18 HP.
+Explosive Shot,Ranged,1 ammo,1 ammo,Pirates Bay,"Deals 7 damage. If this deals a critical hit, reload 2.","Deals 10 damage. If this deals a critical hit, reload 2."
+Bide Time,Ranged,1 ammo,1 ammo,Pirates Bay,"Deals 4 damage. If this card is in your hand, each other card you use this turn increases this card's damage by 2.","Deals 5 damage. If this card is in your hand, each other card you use this turn increases this card's damage by 3."
+Arrow to Knee,Ranged,1 ammo,1 ammo,Pirates Bay,"Deals 7 damage. If target attempts to attack this turn, applies Weakened x2.","Deals 9 damage. If target attempts to attack this turn, applies Weakened x3."
+Seeking Shot,Ranged,1 ammo,1 ammo,Pirates Bay,"Deals 7 damage. If this deals a critical hit, return it to your hand.","Deals 10 damage. If this deals a critical hit, return it to your hand."
+Puffer Fish,Ranged,1 ammo,1 ammo,Pirates Bay,"You lose 3 HP. Deals 9 damage, then return this to your hand. Stay.","You lose 3 HP. Deals 12 damage, then return this to your hand. Stay."
+Smite,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 12 damage. Removed.,Deals 16 damage. Removed.
+Shrapnel Bomb,Ranged,2 ammo,2 ammo,Pirates Bay,Deals 5 damage and applies Injury x2 to all enemies.,Deals 7 damage and applies Injury x3 to all enemies.
+Feint Attack,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 6 damage to all enemies.,Deals 8 damage to all enemies.
+Booster Shot,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 5 damage and increases damage of all Boosters by 2 this battle.,Deals 7 damage and increases damage of all Boosters by 3 this battle.
+Triple Shot,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 3 damage 3 times.,Deals 4 damage 3 times.
+Piranha,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 15 damage. Take 10 damage if this card is in your hand at end of turn.,Deals 18 damage. Take 10 damage if this card is in your hand at end of turn.
+Avalanche,Ranged,1 ammo,1 ammo,Pirates Bay,Deals 10 damage to all enemies. Take 10 damage if this card is in your hand at end of turn.,Deals 13 damage to all enemies. Take 10 damage if this card is in your hand at end of turn.
+Slingshot,Ranged,1 ammo,1 ammo,Heroes,"Deals 4-9 damage, fixed when add to hand.","Deals 6-12 damage, fixed when add to hand."
+The Chariot,Ranged,1 ammo,1 ammo,Heroes,Deals 6 damage. Add 1 The Reversed Chariot to discard pile. Removed.,Deals 9 damage. Add 1 upgraded The Reversed Chariot to discard pile. Removed.
+The Reversed Chariot,Ranged,1 ammo,1 ammo,Heroes,Deals 12 damage. Add 1 The Chariot to discard pile. Removed.,Deals 15 damage. Add 1 upgraded The Chariot to discard pile. Removed.
+Crossbow,Ranged,1 ammo,1 ammo,Heroes,Deals 6 damage and applies Injury x1.,Deals 8 damage. Apply 2 Injury.
+Specter Shot,Ranged,1 ammo,1 ammo,Heroes,Deals 6 damage. Deals 10 damage when you are Ignited.,Deals 9 damage. Deals 13 damage when you are Ignited.
+Specter Shocks,Ranged,2 ammo,2 ammo,Heroes,Deals 4 damage 3 times. Deals 4 damage 5 times when you are Ignited.,Deals 6 damage 3 times. Deals 6 damage 5 times when you are Ignited.
+Crow Blast,Ranged,1 ammo,1 ammo,Heroes,Deals 6 damage. Deals 12 damage instead if you have no armor.,Deals 9 damage. Deals 15 damage instead if you have no armor.
+Peck,Ranged,1 ammo,1 ammo,Heroes,Deals 1 damage 3 times to random enemy. Increase 1 damage if hit.,Deals 1 damage 4 times to random enemy. Increase 1 damage if hit.
+Instant Order,Ranged,2 ammo,2 ammo,Heroes,Deals 4 damage 3 times to random enemies. Deals 4 damage 5 times to random enemies when you are in status Issue Order. (Gunner),Deals 6 damage 3 times to random enemies. Deals 6 damage 5 times to random enemies when you are in status Issue Order. (Gunner)
+Explosive Barrel,Ranged,1 ammo,1 ammo,Packages,Deals 9 damage to a random enemy.,Deals 13 damage to a random enemy.
+Detonate,Ranged,2 ammo,2 ammo,Packages,Deals 12 damage. Deals critical hit if you are in Rage.,Deals 16 damage. Deals critical hit if you are in Rage.
+Spike Ball,Ranged,1 ammo,1 ammo,Packages,Deals 2 damage and applies 2 Injury to a random enemy 3 times.,Deals 2 damage and applies 2 Injury to a random enemy 4 times.
+Discharge,Ranged,2 ammo,2 ammo,Packages,Deals 6 damage 2 times. 2 additional attacks if you are Drunk.,Deals 8 damage 2 times. 2 additional attacks if you are Drunk.
+Multi-Shot,Ranged,2 ammo,2 ammo,Packages,"Deals 4 damage to a random enemy 4 times. If an enemy is killed this way, reduce ammo cost by 1 this battle.","Deals 4 damage to a random enemy 5 times. If an enemy is killed this way, reduce ammo cost by 1 this battle."
+Firecrackers,Ranged,1 ammo,1 ammo,Packages,Deals 2 damage to a random enemy 4 times. Apply 1 Blind to enemy who is attack at least 2 times.,Deals 3 damage to a random enemy 4 times. Apply 1 Blind to enemy who is attack at least 2 times.
+Ammo,Skill,NA,NA,Heroes,Reload 1.,Reload 2.
+Wooden Shield,Skill,1 ammo,1 ammo,Heroes,Gain 6 armor.,Gain 9 armor.
+Issue Order,Skill,1 ammo,1 ammo,Heroes,Next ranged attack card deals critical hit.,Next two ranged attack cards deal critical hits.
+Agility,Skill,1 ammo,1 ammo,Heroes,Gain Dodge x1.,Gain Dodge x2.
+Unstable Alchemy,Skill,1 ammo,1 ammo,Heroes,Fuses 2 cards. Attack damage increases by 2 this turn.,Fuses 2 cards. Attack damage increases by 3 this turn.
+Catalyst,Skill,NA,NA,Heroes,Draw a card and reload 1. Universal material.,Draw a card and reload 2. Universal material.
+Sketch,Skill,1 ammo,NA,Heroes,Copy a card in hand. Removed.,Copy a card in hand. Removed.
+Wave of Coins,Skill,1 ammo,1 ammo,Heroes,Deals 6 damage + additional damage based on amount of Coins you have.,Deals 8 damage + additional damage based on amount of Coins you have.
+Golden Shield,Skill,1 ammo,1 ammo,Heroes,Gain 5 armor + additional armor based on amount of Coins you have.,Gain 7 armor + additional armor based on amount of Coins you have.
+Berserkergang,Skill,2 ammo,2 ammo,Heroes,Next attack card gains 100% Lifesteal. Removed.,Next attack card gains 100% Lifesteal.
+Reserve Supplies,Skill,NA,NA,Pirates Bay,Unplayable. Reload 2 when discarded by other cards or relics.,Unplayable. Reload 3 when discarded by other cards or relics.
+Ammo Barrel,Skill,NA,NA,Pirates Bay,Discard a card from your hand and reload 2.,Discard a card from your hand and reload 3.
+Makeshift Ammo,Skill,NA,NA,Pirates Bay,"Reload 2, then lose all ammo at start of next turn.","Reload 3, then lose all ammo at start of next turn."
+Totally Drunk,Skill,NA,NA,Pirates Bay,Reload 1 and gain Drunk x2.,Reload 1 and gain Drunk x3.
+Greed,Skill,-5 health,-5 health,Pirates Bay,"Lose 5 HP, draw 2 cards and reload 2. Removed.","Lose 5 HP, draw 3 cards and reload 3. Removed."
+Tainted Ammo,Skill,-3 health,-3 health,Pirates Bay,Lose 3 HP and reload 2.,Lose 3 HP and reload 3.
+Bard Skills,Skill,NA,NA,Pirates Bay,Reload 1 and upgrade a random card in hand.,Reload 1 and upgrade a card in hand.
+Shield Wall,Skill,3 ammo,3 ammo,Pirates Bay,Gain 20 armor.,Gain 25 armor.
+Iron Shield,Skill,2 ammo,2 ammo,Pirates Bay,Gain 13 armor.,Gain 17 armor.
+Barricade,Skill,1 ammo,1 ammo,Pirates Bay,Discard a card from your hand and gain 9 armor.,Discard a card from your hand and gain 13 armor.
+Hardened Shield,Skill,1 ammo,1 ammo,Pirates Bay,Applies Weakened x1 and gain 5 armor.,Applies Weakened x2 and gain 7 armor.
+Fortify,Skill,1 ammo,NA,Pirates Bay,Gain armor equal to number of cards in discard pile. Removed.,Gain armor equal to number of cards in discard pile. Removed.
+Defensive Stance,Skill,1 ammo,NA,Pirates Bay,Gain armor equal to number of cards in draw pile. Removed.,Gain armor equal to number of cards in draw pile. Removed.
+Coconut Tree,Skill,1 ammo,1 ammo,Pirates Bay,"Gain 10 armor, then lose all armor at start of next turn.","Gain 14 armor, then lose all armor at start of next turn."
+Extra Supplies,Skill,NA,NA,Pirates Bay,Reload 3. Removed.,Reload to max. Removed.
+Reopen Wound,Skill,1 ammo,1 ammo,Pirates Bay,Doubles target's Injury. Removed.,Doubles target's Injury.
+Extinguish,Skill,NA,NA,Pirates Bay,Reduces an enemy's attack damage by 5 for 1 turn.,Reduces all enemy's attack damage by 5 for 1 turn.
+Unbalance,Skill,NA,NA,Pirates Bay,Knocks back an enemy and applies Weakened x1.,Knocks back an enemy and applies Weakened x2.
+Gamble,Skill,NA,NA,Pirates Bay,"Discard your hand, then draw that many cards. Removed.","Discard your hand, then draw that many cards."
+Blind,Skill,NA,NA,Pirates Bay,Applies Blind x1.,Applies Blind x2.
+Toast,Skill,NA,NA,Pirates Bay,Applies Drunk x3 and heal 3,Applies Drunk x3 and heal 6
+Brutal Spell,Skill,1 ammo,1 ammo,Pirates Bay,Discard your hand and applies Injury x4 for each card discarded this way.,Discard your hand and apply Injury x6 for each card discarded this way.
+Carnival,Skill,NA,NA,Pirates Bay,Applies Drunk x2 to all characters.,Applies Drunk x3 to all characters.
+Break Weapon,Skill,1 ammo,1 ammo,Pirates Bay,Applies Weakened x2.,Applies Weakened x3.
+Tactical Planning,Skill,NA,NA,Pirates Bay,Unplayable. Draw 2 cards when discarded by other cards or relics.,Draw a card. Draw 2 cards when discarded by other cards or relics.
+Salvage,Skill,1 ammo,1 ammo,Pirates Bay,"Draw 2 cards, then discard a card from your hand.","Draw 3 cards, then discard a card from your hand."
+Anger,Skill,-3 health,-3 health,Pirates Bay,Lose 3 HP and apply Rage x3.,Lose 3 HP and apply Rage x4.
+Beg,Skill,1 ammo,1 ammo,Pirates Bay,"Draw a card, then draw another card if your HP is below 50%.","Draw a card, then draw another 2 cards if your HP is below 50%."
+Anchor,Skill,NA,NA,Pirates Bay,Grabs an enemy towards you and reduces its attack damage by 1. Removed.,Grabs an enemy towards you and reduces its attack damage by 2. Removed.
+Brawn,Skill,1 ammo,1 ammo,Pirates Bay,Applies Rage x3.,Applies Rage x4.
+Bananas,Skill,1 ammo,1 ammo,Pirates Bay,Heal 5. Removed.,Heal 8. Removed.
+Rip Wound,Skill,1 ammo,1 ammo,Pirates Bay,Deals damage equal to 3x target's Injury.,Deals damage equal to 5x target's Injury.
+Thorny Vine,Skill,1 ammo,1 ammo,Pirates Bay,Ranged attacks apply Injury x3 this turn.,Ranged attacks apply Injury x4 this turn.
+Aim,Skill,1 ammo,NA,Pirates Bay,Attacks will always hit this turn.,Attacks will always hit this turn.
+Melt Shield,Skill,1 ammo,NA,Pirates Bay,Target loses all armor.,Target loses all armor.
+Book of Tactics,Skill,NA,NA,Pirates Bay,Adds a random skill card to your hand. Removed.,Adds a random upgraded skill card to your hand. Removed.
+Pincer,Skill,1 ammo,1 ammo,Pirates Bay,Discard a card from your hand and applies Injury x6.,Discard a card from your hand and applies Injury x8.
+Cleansing Fire,Skill,NA,NA,Pirates Bay,Remove all Curses in hand and heal 5 per card removed this way.,Remove all Curses in hand and heal 8 per card removed this way.
+Swordsmanship,Skill,3 ammo,2 ammo,Pirates Bay,All melee attacks will deal critical hits this turn.,All melee attacks will deal critical hits this turn.
+Waste Not,Skill,NA,NA,Pirates Bay,Remove all Curses in hand and deal 10 damage per card removed this way.,Remove all Curses in hand and deal 15 damage per card removed this way.
+Inspire,Skill,1 ammo,1 ammo,Pirates Bay,Next attack card gains 50% Lifesteal. Removed.,Next attack card gains 100% Lifesteal. Removed.
+Good News,Skill,1 ammo,NA,Pirates Bay,Draw 2 cards for each enemy that is Injured.,Draw 2 cards for each enemy that is Injured.
+Trade,Skill,NA,NA,Pirates Bay,Transforms a card into a random attack card. Removed.,Transforms a card into a random upgraded attack card. Removed.
+Sharpen,Skill,2 ammo,1 ammo,Pirates Bay,All attack cards gain Penetration this battle. Removed.,All attack cards gain Penetration this battle. Removed.
+Collect Weapon,Skill,X ammo,X ammo,Pirates Bay,Lose all ammo and add X random melee cards to your hand. Removed.,Lose all ammo and add X+1 upgraded random melee cards to your hand. Removed.
+Dice Trick,Skill,NA,NA,Pirates Bay,Transform all cards in hand.,Transform all cards in hand.
+Procure,Skill,NA,NA,Pirates Bay,Adds a random melee card to your hand. Removed.,Adds a random upgraded melee card to your hand. Removed.
+On Guard,Skill,NA,NA,Pirates Bay,Adds a random ranged card to your hand. Removed.,Adds a random upgraded ranged card to your hand. Removed.
+Mirror Image,Skill,1 ammo,NA,Pirates Bay,Copy a card in hand.,Copy a card in hand.
+Tranquility,Skill,1 ammo,1 ammo,Pirates Bay,Applies Immunity x4. Removed.,Applies Immunity x4.
+Full Upgrade,Skill,1 ammo,NA,Pirates Bay,Upgrades all cards in hand.,Upgrades all cards in hand.
+Maelstrom,Skill,2 ammo,2 ammo,Pirates Bay,Deals 10 damage to all enemies and heal 5 per enemy killed this way.,Deals 14 damage to all enemies and heal 8 per enemy killed this way.
+Total Defense,Skill,X ammo,X ammo,Pirates Bay,Lose all ammo and gain 6 x X armor.,Lose all ammo and gain 9 x X armor.
+Gang of Sharks,Skill,2 ammo,2 ammo,Pirates Bay,Deals 10 damage to all enemies and heal 3 per enemy damaged this way.,Deals 12 damage to all enemies and heal 5 per enemy damaged this way.
+Focus,Skill,NA,NA,Pirates Bay,Choose a skill card from your draw pile and add it to your hand. Removed.,Choose a skill card from your draw pile and add it to your hand.
+Excavate,Skill,1 ammo,1 ammo,Pirates Bay,Choose a card from your discard pile and add it to your hand. Removed.,Choose a card from your discard pile and add it to your hand.
+Draw Arms,Skill,NA,NA,Pirates Bay,Draw a ranged card from draw pile.,Draw 2 ranged cards from draw pile.
+Bookmark,Skill,NA,NA,Pirates Bay,Draw a skill card from draw pile.,Draw 2 skill cards from draw pile.
+Payment in Blood,Skill,-3 health,-1 health,Pirates Bay,"Lose 3 HP, draw a card, and return this to your hand. +1 HP loss from this card this turn.","Lose 1 HP, draw a card, and return this to your hand. +1 HP loss from this card this turn."
+Raise Shield,Skill,1 ammo,1 ammo,Pirates Bay,"If enemy attempts to attack this turn, gain 8 armor.","If enemy attempts to attack this turn, gain 12 armor."
+Predict,Skill,1 ammo,NA,Pirates Bay,"If enemy attempts to attack this turn, gain Dodge x2.","If enemy attempts to attack this turn, gain Dodge x2."
+Good Rest,Skill,1 ammo,1 ammo,Pirates Bay,Discard your hand and heal 3 for each card discarded this way. Removed.,Discard your hand and heal 5 for each card discarded this way. Removed.
+Block,Skill,NA,NA,Pirates Bay,Draw a card and gain 4 armor if it is an attack card.,Draw a card and gain 7 armor if it is an attack card.
+Figurehead,Skill,3 ammo,3 ammo,Pirates Bay,-1 ammo cost to all cards this turn. Removed.,-1 ammo cost to all cards this turn.
+Firearms Mastery,Skill,1 ammo,NA,Pirates Bay,-1 ammo cost to all ranged cards in hand this turn.,-1 ammo cost to all ranged cards in hand this turn.
+Ammo Maker,Skill,2 ammo,1 ammo,Pirates Bay,All ranged cards in hand cost 0 ammo this turn.,All ranged cards in hand cost 0 ammo this turn.
+Forge,Skill,2 ammo,1 ammo,Pirates Bay,Upgrades all melee cards in your deck. Removed.,Upgrades all melee cards in your deck. Removed.
+No Escape,Skill,2 ammo,1 ammo,Pirates Bay,Applies Mark x1.,Applies Mark x1.
+Heavy Armor,Skill,1 ammo,1 ammo,Pirates Bay,Gain 12 armor and Mark x1.,Gain 16 armor and Mark x1.
+Bloody Mark,Skill,-5 health,-5 health,Pirates Bay,Lose 5 HP and applies Mark x1. Removed.,Lose 5 HP and applies Mark x1.
+Rum Barrel,Skill,1 ammo,1 ammo,Pirates Bay,Gain 7 armor and Drunk x2.,Gain 10 armor and Drunk x2.
+Dangerous Game,Skill,NA,NA,Pirates Bay,Skill. Chance. 75%: Gain 9 armor. 25%: Lose all armor.,Skill. Chance. 75%: Gain 13 armor. 25%: Lose all armor.
+Meditation,Skill,NA,NA,Heroes,Lose all Focus and heal equal to the Focus lost this way. Removed.,Lose all Focus and heal equal to 2 times the Focus lost this way. Removed.
+Resupply,Skill,NA,NA,Heroes,Can be played only when you have at least 2 Focus. Lose 2 Focus and reload 2.,Can be played only when you have at least 2 Focus. Lose 2 Focus and reload 2. Draw 1 card.
+Offensive Stance,Skill,1 ammo,NA,Heroes,Next attack will be a critical hit. Status becomes Dueling.,Next attack will be a critical hit. Status becomes Dueling.
+Masque,Skill,1 ammo,1 ammo,Heroes,Gain 6 armor. Status becomes Disguised.,Gain 9 armor. Status becomes Disguised.
+Impromptu,Skill,NA,NA,Heroes,Reload 1. Status becomes Performing.,Reload 2. Status becomes Performing.
+Jack of Trades,Skill,1 ammo,1 ammo,Heroes,Effect depends on your status. Dueling: Deals 10 damage. Disguised: Draw 1. Performing: Upgrade 1 card in hand.,Effect depends on your status. Dueling: Deals 15 damage. Disguised: Draw 2. Performing: Upgrade all cards in hand.
+Toss,Skill,NA,NA,Heroes,Chance. 50% reload 2 and get 1 Lucky. 50% get 1 Unlucky.,Chance. 50% reload 3 and get 1 Lucky. 50% reload 1 and get 1 Unlucky.
+Good Luck,Skill,1 ammo,NA,Heroes,"Draw 1. If you have at least 5 Lucky, draw 2 more. Lose all the Lucky.","Draw 1. If you have at least 5 Lucky, draw 2 more. Lose all the Lucky."
+Not So Bad,Skill,NA,NA,Heroes,"Heal 3 for each Unlucky and lose all Unlucky. If you lost at least 5 Unlucky, become Heroic this turn.","Heal 4 for each Unlucky and lose all Unlucky. If you lost at least 5 Unlucky, become Heroic this turn."
+Talisman,Skill,1 ammo,1 ammo,Heroes,"Get 4-9 armor, fixed when add to hand.","Get 6-12 armor, fixed when add to hand."
+Judgement,Skill,1 ammo,1 ammo,Heroes,"Deals 7 damage. If the enemy intends to attack, apply 1 Weakened. If enemy intends to gain armor, apply 1 Fragile.","Deals 9 damage. If the enemy intends to attack, apply 2 Weakened. If enemy intends to gain armor, apply 2 Fragile."
+The Wheel of Fortune,Skill,1 ammo,1 ammo,Heroes,"Deals 3 damage to a random enemy 4 times at the start of your next turn, plus 1 additional time for each Tarot charge used. Takes effect immediately if The Fool is in your hand.","Deals 5 damage to a random enemy 4 times at the start of your next turn, plus 1 additional time for each Tarot charge used. Takes effect immediately if The Fool is in your hand."
+The Hermit,Skill,NA,NA,Heroes,"Reload 1, then reload 1 at the start of your next turn. Takes effect immediately if The Fool is in your hand.","Reload 1, then reload 2 at the start of your next turn. Takes effect immediately if The Fool is in your hand."
+Temperance,Skill,NA,NA,Heroes,"Until the start of your next turn, reload 1 whenever you are attacked.","Reload 1. Until the start of your next turn, reload 1 whenever you are attacked."
+The Hanged Man,Skill,1 ammo,1 ammo,Heroes,Gain 4 armor per enemy that intends to attack.,Gain 6 armor per enemy that intends to attack.
+The Tower,Skill,1 ammo,1 ammo,Heroes,Gain 8 armor at the start of your next turn. Takes effect immediately if The Fool is in your hand.,Gain 12 armor at the start of your next turn. Takes effect immediately if The Fool is in your hand.
+The Lovers,Skill,1 ammo,NA,Heroes,"Choose an enemy. Until the start of your next turn, whenever you lose HP, deal damage equal to 2x HP lost that way to that enemy.","Choose an enemy. Until the start of your next turn, whenever you lose HP, deal damage equal to 2x HP lost that way to that enemy."
+The Empress,Skill,1 ammo,NA,Heroes,Draw 1 card. Select 1 card from draw pile and add to hand instead if The Fool is in your hand.,Draw 1 card. Select 1 card from draw pile and add to hand instead if The Fool is in your hand.
+Bear Tricks,Skill,1 ammo,1 ammo,Heroes,"Gain 6 armor. If your HP is below 50%, gain 1 Dodge.","Gain 9 armor. If your HP is below 50%, gain 1 Dodge."
+Wild,Skill,1 ammo,1 ammo,Heroes,"Until your next turn, reduce 50% damage from attacks, and increase damage and armor effect of bear by 3. Removed.","Until your next turn, reduce 50% damage from attacks, and increase damage and armor effect of bear by 3."
+Command,Skill,1 ammo,NA,Heroes,Command the bear to act. Increase its damage and armor effect by 2. This card will be removed at the end of your turn. Removed.,Command the bear to act. This card will be removed at the end of your turn. Removed.
+Specter Ammo,Skill,NA,NA,Heroes,"Reload 1, or deals 3 damage to enemy. Deals 7 damage when you are Ignited.","Reload 2, or deals 5 damage to enemy. Deals 9 damage when you are Ignited."
+Specter Shield,Skill,1 ammo,1 ammo,Heroes,Get 7 armor. Get 11 armor when you are Ignited.,Get 10 armor. Get 14 armor when you are Ignited.
+Soul Charge,Skill,1 ammo,1 ammo,Heroes,"Draw 1 card, draw 2 cards when you are Ignited","Draw 2 cards, draw 2 cards when you are Ignited"
+Ignite,Skill,NA,NA,Heroes,"Become Ignited this turn, or deals 5 damage to enemy. Deals 9 damage when you are Ignited.","Become Ignited this turn, or deals 8 damage to enemy. Deals 12 damage when you are Ignited."
+Last Order,Skill,NA,NA,Heroes,Reload to max and -2 HP for each ammo reloaded in this way. Become Ignited this turn. Removed.,Reload to max and -1 HP for each ammo reloaded in this way. Become Ignited this turn.
+Revival Reload,Skill,NA,NA,Heroes,"Reload 1. If you have no armor, reload 2.","Reload 2. If you have no armor, reload 3."
+Absolution,Skill,1 ammo,1 ammo,Heroes,"Get 8 armor, costs 1 less ammo if you have no armor.","Get 11 armor, costs 1 less ammo if you have no armor."
+Fire Purification,Skill,1 ammo,1 ammo,Heroes,Discard 1 card. Deal damage equal to your armor to a random enemy.,Discard 1 card. Deal damage equal to your armor.
+Death Ritual,Skill,1 ammo,1 ammo,Heroes,The enemy loses 20% max HP (max 30). Removed.,The enemy loses 20% max HP (max 40). Removed.
+Broken Egg,Skill,NA,NA,Heroes,Reload 1. Get 1 Rage when you are Combative.,Reload 2. Get 1 Rage when you are Combative.
+Wingbeats,Skill,1 ammo,1 ammo,Heroes,Deals 8 damage to a random enemy. Deal 8 damage to all enemies instead when you are Combative.,Deals 12 damage to a random enemy. Deal 12 damage to all enemies instead when you are Combative.
+Chaos Bringer,Skill,NA,NA,Heroes,Applies random condition x2 to all characters. Removed.,Applies random condition x2 to all characters.
+Cursed by Nature,Skill,1 ammo,1 ammo,Heroes,Gain 6 armor + 1 armor per Curse in your deck.,Gain 9 armor + 1 armor per Curse in your deck.
+Bringer of Calamity,Skill,1 ammo,1 ammo,Heroes,Deals 7 damage + 2 damage per Curse in your deck.,Deals 11 damage + 2 damage per Curse in your deck.
+Clipping,Skill,NA,NA,Heroes,"Discard all curses from your hand, then draw X cards.","Discard all curses from your hand, then draw X+1 cards."
+Holy Water,Skill,3 ammo,2 ammo,Other,Consumable. Heal to full HP.,Consumable. Heal to full HP.
+Hurricane,Skill,NA,NA,Other,Consumable. Deals 12 damage to all enemies.,Consumable. Deals 20 damage to all enemies.
+Tentacles,Skill,NA,NA,Other,Consumable. Deals 20 damage.,Consumable. Deals 40 damage.
+Harvest,Skill,NA,NA,Other,Consumable. Heal 20.,Consumable. Heal 40.
+Meteorite,Skill,NA,NA,Other,Consumable. Deals 10 damage. Stun the enemy.,Consumable. Deals 15 damage. Stun the enemy.
+Volcano,Skill,2 ammo,2 ammo,Other,Consumable. Deals 15 damage to all enemies and stun them.,Consumable. Deals 20 damage to all enemies and stun them.
+Song of the Dead,Skill,1 ammo,NA,Heroes,Consumable. Target loses 50% max HP. (Musician),Consumable. Target loses 50% max HP. (Musician)
+Rock,Skill,1 ammo,1 ammo,Packages,+3 melee damage this turn.,+5 melee damage this turn.
+Collect Bomb,Skill,NA,NA,Packages,"Reload 1. If you have no ammo, reload 2 instead.","Reload 1. If you have no ammo, reload 3 instead."
+Fervor,Skill,NA,NA,Packages,+5 attack damage this turn. Lose 20 HP at end of turn.,+7 attack damage this turn. Lose 20 HP at end of turn.
+Bide,Skill,1 ammo,1 ammo,Packages,Lose 5 HP. +5 attack damage your next turn.,Lose 7 HP. +7 attack damage your next turn.
+Thorn Armor,Skill,1 ammo,1 ammo,Packages,"Until your next turn, enemies who attack you get 5 Injury,","Until your next turn, enemies who attack you get 7 Injury."
+Bear Trap,Skill,1 ammo,1 ammo,Packages,Applies 5 Injury. Double effect against targets with less than 50% HP remaining.,Applies 7 Injury. Double effect against targets with less than 50% HP remaining.
+Craft Brew,Skill,1 ammo,1 ammo,Packages,Get 1 Drunk. +3 attack damage this turn.,Get 3 Drunk. +3 attack damage this turn.
+Red Barrel,Skill,1 ammo,1 ammo,Packages,5 HP. Summon 1 Red Barrel. Deathrattle: Deal 15 damage to adjacent enemies.,3 HP. Summon 1 Red Barrel. Deathrattle: Deal 20 damage to adjacent enemies.
+Thorn Barrel,Skill,1 ammo,1 ammo,Packages,"20 HP. Summon 1 Thorn Barrel. When it is attacked, apply 3 Injury to adjacent enemies. Deathrattle: Apply 6 Injury to adjacent enemies. Removed.","20 HP. Summon 1 Thorn Barrel. When it is attacked, apply 3 Injury to adjacent enemies. Deathrattle: Apply 6 Injury to adjacent enemies. Removed."
+Violent Strike,Skill,1 ammo,NA,Packages,Knocks back and Stun the enemy. Removed.,Knocks back and Stun the enemy. Removed.
+Throwing Anchor,Skill,1 ammo,NA,Packages,Knocks back the target with HP above 50%. Grabs the target with HP below 50% towards you. Removed.,Knocks back the target with HP above 50%. Grabs the target with HP below 50% towards you. Removed.
+Catch,Skill,NA,NA,Packages,Grabs the target towards you. Draw 1 card. Removed.,Grabs the target towards you. Draw 1 card. Removed.
+Pyrotechnics,Skill,1 ammo,1 ammo,Packages,Deal 6 damage to all enemies without a condition and apply 1 Blind to them.,Deal 9 damage to all enemies without a condition and apply 1 Blind to them.
+Fireworks Barrel,Skill,1 ammo,1 ammo,Packages,"3 HP. Summon 1 Fireworks Barrel. Deathrattle: Deal 3 damage 6 times to random adjacent enemies, deal double damage to Blind enemies.","3 HP. Summon 1 Fireworks Barrel. Deathrattle: Deal 4 damage 6 times to random adjacent enemies, deal double damage to Blind enemies."
+Great Banana,Skill,NA,NA,Packages,Unplayable. Heal 1 whenever you play a card if this is in your hand.,Unplayable. Heal 2 whenever you play a card if this is in your hand.
+Epic Throw,Skill,NA,NA,Packages,Unplayable. +1 attack damage for the rest of the battle when discarded by other cards or relics.,Unplayable. +2 attack damage for the rest of the battle when discarded by other cards or relics.
+Bravery,Skill,NA,NA,Packages,Unplayable. +1 attack damage.,Unplayable. +1 attack damage. +5 max HP.
+Thirst of Mark,Skill,1 ammo,NA,Packages,Discard 1 and applies Mark x1.,Discard 1 and applies Mark x1.
+Sapphire,Skill,NA,NA,Other,Consumable. Draw 2 cards.,Consumable. Draw until your hand is full.
+Emerald,Skill,NA,NA,Other,Consumable. Heal 25.,Consumable. Heal to full HP.
+Ruby,Skill,NA,NA,Other,Consumable. +2 attack damage.,Consumable. +5 attack damage.
+Deserter,Curse,NA,NA,Other,Unplayable. -1 max ammo when this is in your deck.,NA
+Plague,Curse,NA,NA,Other,Unplayable. Lose all ammo when you draw this.,NA
+Handcuff,Curse,NA,NA,Other,Unplayable.,NA
+Spoil,Curse,NA,NA,Other,Unplayable. Lose 2 HP at end of your turn.,NA
+Wetness,Curse,NA,NA,Other,Unplayable. Lose 1 ammo when you draw this.,NA
+Bind,Curse,NA,NA,Other,Unplayable. Gain Weakened x1 at end of your turn.,NA
+Urchins,Curse,NA,NA,Other,Unplayable. Take 7 damage whe you draw this. Remove this at end of turn.,NA
+Rotted Wood,Curse,NA,NA,Other,Unplayable. Remove this at end of turn.,NA
+Repression,Curse,NA,NA,Other,Unplayable. Take 2 damage whenever you use an attack card if this is in your hand.,NA
+Drown,Curse,NA,NA,Other,Unplayable. Take 2 damage whenever you use a skill card if this is in your hand.,NA
+The Fool,Curse,NA,NA,Heroes,Unplayable. Lose 3 HP at end of your turn. Can't be removed from deck.,NA
+Mutate,Curse,NA,NA,Heroes,Unplayable. -7 max HP.,NA
+Chain,Curse,NA,NA,Other,Unplayable. Can't play attack cards if this is in your hand. Remove this at end of turn.,NA
+Poisoned,Curse,NA,NA,Other,"Unplayable. Whenever you draw an extra card, lose 3 HP if this is in your hand.",NA
+Skeleton Claw,Melee,NA,NA,Skulls Island,Deals 7 damage. Critical hit to humans.,Deals 10 damage. Critical hit to humans.
+Bet the House,Melee,NA,NA,Skulls Island,"Discard your hand, dealing 8 damage per card discarded this way.","Discard your hand, dealing 10 damage per card discarded this way."
+Power Strike,Melee,NA,NA,Skulls Island,Deals 7 damage and draw a card if your HP is below 50%.,Deals 10 damage and draw a card if your HP is below 50%.
+Dagger,Melee,NA,NA,Skulls Island,"Deals 10 damage. The further away the enemy, the less damage this deals.","Deals 14 damage. The further away the enemy, the less damage this deals."
+Piercing Blade,Melee,NA,NA,Skulls Island,Deals 5 damage. Penetration. Critical hit on enemies without armor.,Deals 8 damage. Penetration. Critical hit on enemies without armor.
+Wrestle,Melee,NA,NA,Skulls Island,Deals 6 damage. Draw a card if target is human.,Deals 9 damage. Draw a card if target is human.
+Silver Dagger,Melee,NA,NA,Skulls Island,Deals 6 damage. Draw a card if target is undead.,Deals 9 damage. Draw a card if target is undead.
+Close Combat,Melee,NA,NA,Skulls Island,Deals 8 damage. Can only be used if there is no ranged card in your hand.,Deals 11 damage. Can only be used if there is no ranged card in your hand.
+Boomerang,Melee,NA,NA,Skulls Island,"Deals 6 damage. If an enemy is killed this way, return this to your hand.","Deals 9 damage. If an enemy is killed this way, return this to your hand."
+Legendary Sword,Melee,NA,NA,Skulls Island,Deals 8 damage. Penetration. 100% Lifesteal. Removed.,Deals 12 damage. Penetration. 100% Lifesteal. Removed.
+Death Mark,Ranged,1 ammo,1 ammo,Skulls Island,Deals 5 damage and applies Mark x1 if target is undead.,Deals 5 damage and applies Mark x2 if target is undead.
+Silver Shot,Ranged,1 ammo,1 ammo,Skulls Island,Deals 6 damage. Critical hit to undead.,Deals 9 damage. Critical hit to undead.
+Draining Shot,Ranged,1 ammo,1 ammo,Skulls Island,Deals 10 damage. Adds a Bind to your hand.,Deals 14 damage. Adds a Bind to your hand.
+Back Against Wall,Ranged,1 ammo,1 ammo,Skulls Island,Deals 6 damage + 5 damage per Curse in your hand.,Deals 6 damage + 8 damage per Curse in your hand.
+Counter,Ranged,1 ammo,1 ammo,Skulls Island,"Deals 7 damage, critical hit if your HP is below 50%.","Deals 10 damage, critical hit if your HP is below 50%."
+Pursuit,Ranged,1 ammo,1 ammo,Skulls Island,"Deals 7 damage, critical hit to enemies with HP below 50%.","Deals 10 damage, critical hit to enemies with HP below 50%."
+Cannon Fire,Ranged,4 ammo,4 ammo,Skulls Island,Deals 40 damage.,Deals 50 damage.
+Snipe,Ranged,1 ammo,1 ammo,Skulls Island,"Deals 6 damage. The further away the enemy, the more damage this deals.","Deals 9 damage. The further away the enemy, the more damage this deals."
+Final Move,Ranged,2 ammo,2 ammo,Skulls Island,Deals 12 damage. Critical hit if your hand is empty.,Deals 16 damage. Critical hit if your hand is empty.
+Undead Killer,Ranged,1 ammo,1 ammo,Skulls Island,Deals 8 damage. Remove this if target is not undead.,Deals 12 damage. Remove this if target is not undead.
+Emergency Supplies,Skill,NA,NA,Skulls Island,"Reload 1, or reload to max if you have less than 10 HP.","Reload 1, or reload to max if you have less than 15 HP."
+Auto Shield,Skill,NA,NA,Skulls Island,Unplayable. Gain 8 armor and return this to hand when discarded by other cards or relics.,Unplayable. Gain 12 armor and return this to hand when discarded by other cards or relics.
+Old Shield,Skill,NA,NA,Skulls Island,Lose 4 HP and gain 12 armor.,Lose 4 HP and gain 15 armor.
+Makeshift Armor,Skill,2 ammo,2 ammo,Skulls Island,Gain Rage x2 and 8 armor.,Gain Rage x3 and 10 armor.
+Hide,Skill,2 ammo,2 ammo,Skulls Island,Gain Immunity x2 and 10 armor.,Gain Immunity x3 and 12 armor.
+Card Magic - Gun,Skill,NA,NA,Skulls Island,"Draw 3 cards, then discard all non-ranged cards in hand.","Draw until your hand is full, then discard all non-ranged cards in hand."
+Card Magic - Sword,Skill,2 ammo,2 ammo,Skulls Island,"Draw 3 cards, then discard all non-melee cards in hand.","Draw until your hand is full, then discard all non-melee cards in hand."
+First Aid,Skill,1 ammo,1 ammo,Skulls Island,"Heal 5, then heal 5 more if target HP is below 50%.","Heal 7, then heal 7 more if target HP is below 50%."
+Feast,Skill,2 ammo,2 ammo,Skulls Island,Heal 8 and applies Immunity x3. Removed.,Heal 12 and applies Immunity x4. Removed.
+Hit and Run,Skill,2 ammo,1 ammo,Skulls Island,Gain Dodge x1 whenever you use a melee card this turn.,Gain Dodge x1 whenever you use a melee card this turn.
+Recycle Ammo,Skill,NA,NA,Skulls Island,Unplayable. Reload 1 when you draw this card. Reload 1 when discarded by other cards or relics.,Unplayable. Reload 2 when you draw this card. Reload 2 when discarded by other cards or relics.
+Banana Rain,Skill,2 ammo,2 ammo,Skulls Island,All characters heal 10. Removed.,All characters heal 15. Removed.
+Food Reserve,Skill,2 ammo,1 ammo,Skulls Island,Lose all armor and heal equal to armor lost this way.,Lose all armor and heal equal to armor lost this way.
+Fruit Basket,Skill,X ammo,X ammo,Skulls Island,Lose all ammo and heal 4 x X.,Lose all ammo and heal 6 x X.
+Break Out,Skill,1 ammo,1 ammo,Skulls Island,Gain 3 armor per enemy alive.,Gain 5 armor per enemy alive.
+Blind Bones,Skill,NA,NA,Skulls Island,Applies Blind x1 to all undead.,Applies Blind x2 to all undead.
+Accelerate,Skill,2 ammo,1 ammo,Skulls Island,Gain Dodge x1 per enemy alive.,Gain Dodge x1 per enemy alive.
+Lengthen Barrel,Skill,NA,NA,Skulls Island,Unplayable. +4 to all ranged damage if this is in your hand.,Unplayable. +6 to all ranged damage if this is in your hand.
+Powerful Arms,Skill,NA,NA,Skulls Island,Unplayable. +4 to all melee damage if this is in your hand.,Unplayable. +6 to all melee damage if this is in your hand.
+Rotten Bananas,Skill,1 ammo,1 ammo,Skulls Island,"Heal 6. If target is yourself, remove this.","Heal 9. If target is yourself, remove this."
+Multi-tool,Skill,1 ammo,1 ammo,Skulls Island,Choose a card from your draw pile and add it to your hand. Removed.,Choose a card from your draw pile and add it to your hand.
+Prepare for Battle,Skill,NA,NA,Skulls Island,Draw a card and reload 1 if it is a ranged card.,Draw a card and reload 2 if it is a ranged card.
+Roulette Game,Skill,1 ammo,1 ammo,Skulls Island,Applies Mark x1 to a random enemy. Removed.,Applies Mark x1 to a random enemy.
+Restart,Skill,1 ammo,1 ammo,Skulls Island,"Shuffle your discard pile into your draw pile, then draw 2 cards. Removed.","Shuffle your discard pile into your draw pile, then draw 2 cards."
+Moldy Cheese,Skill,1 ammo,1 ammo,Skulls Island,Heal 1-10. Removed.,Heal 5-15. Removed.
+Fish Barrel,Skill,NA,NA,Skulls Island,Consumable. All characters heal 20.,Consumable. All characters heal 30.
+Doppelganger,Skill,NA,NA,Skulls Island,"Consumable. If your HP becomes 0 before your next turn, revive and heal 25% of HP.","Consumable. If your HP becomes 0 before your next turn, revive and heal to full HP."
+Fishbone,Curse,NA,NA,Skulls Island,Unplayable. Can't get any healing (can't revive when HP becomes 0) if this is in your hand.,NA
+Decompose,Curse,NA,NA,Skulls Island,Unplayable. Lose all armor when you draw this.,NA
+Chronic Illness,Curse,NA,NA,Skulls Island,Unplayable. -5 max HP. Remains in deck after battle.,NA
+Betray,Curse,NA,NA,Skulls Island,Unplayable. +1 to all enemy attack damage when you draw this.,NA
+Flail,Melee,NA,NA,Souls Rift,"Deals 7 damage. If all armor on target is removed this way, deals 7 damage to all enemies.","Deals 9 damage. If all armor on target is removed this way, deals 9 damage to all enemies."
+Soul Cleave,Melee,NA,NA,Souls Rift,Deals 6 damage. Critical hit to specters.,Deals 9 damage. Critical hit to specters.
+Anchor Swing,Melee,NA,NA,Souls Rift,Deals 8 damage and knocks back enemies with HP above 50%.,Deals 12 damage and knocks back enemies with HP above 50%.
+Holy Sword,Melee,NA,NA,Souls Rift,Deals 50 damage. Can only be used if you have no armor and less than 15 HP.,Deals 70 damage. Can only be used if you have no armor and less than 15 HP.
+Ghost Hunter,Ranged,2 ammo,2 ammo,Souls Rift,Deals 12 damage. Critical hit to specters.,Deals 15 damage. Critical hit to specters.
+Soul Blast,Ranged,3 ammo,3 ammo,Souls Rift,Deals 16 damage and gain 50% Lifesteal if target is human.,Deals 20 damage and gain 50% Lifesteal if target is human.
+Soul Bomb,Ranged,1 ammo,1 ammo,Souls Rift,Deals 7 damage. Deals 7 damage to all enemies if discarded by other cards or relics.,Deals 10 damage. Deals 10 damage to all enemies if discarded by other cards or relics.
+Lucky Shot,Ranged,2 ammo,2 ammo,Souls Rift,"Deals 5 damage 2 times, 50% chance for critical hit.","Deals 7 damage 2 times, 50% chance for critical hit."
+Sneak Attack,Ranged,1 ammo,1 ammo,Souls Rift,Deals 7 damage. Critical hit if target does not attempt to attack this turn.,Deals 10 damage. Critical hit if target does not attempt to attack this turn.
+Heavy Cannon,Ranged,1 ammo,1 ammo,Souls Rift,Deals 3 damage. Increases this card's damage this journey by 2. Removed.,Deals 3 damage. Increases this card's damage this journey by 3. Removed.
+Ceremonial Dagger,Skill,NA,NA,Souls Rift,Reload 1 whenever you use a melee card this turn. Removed.,Reload 1 whenever you use a melee card this turn.
+Enchanted Ammo,Skill,NA,NA,Souls Rift,"Reload 1. If you have a curse in your hand, reload 2 instead.","Reload 1. If you have a curse in your hand, reload to max instead."
+Specter Claw,Skill,1 ammo,1 ammo,Souls Rift,Deals 8 damage.,Deals 12 damage.
+Soul Fire,Skill,NA,NA,Souls Rift,Deals 3 damage. Draw a card.,Deals 6 damage. Draw a card.
+Wrap,Skill,1 ammo,1 ammo,Souls Rift,Deals 6 damage and applies Weakened x1.,Deals 8 damage and applies Weakened x2.
+Ink Shot,Skill,2 ammo,2 ammo,Souls Rift,Deals 12 damage and applies Blind x1.,Deals 16 damage and applies Blind x2.
+Sorcery Attack,Skill,1 ammo,1 ammo,Souls Rift,Deals damage equal to HP lost (max 12).,Deals damage equal to HP lost (max 18).
+Sorcery Defense,Skill,2 ammo,2 ammo,Souls Rift,Gain armor equal to HP lost (max 16).,Gain armor equal to HP lost (max 22).
+Rapid Pace,Skill,1 ammo,1 ammo,Souls Rift,Deals 7 damage and gain Dodge x1 if your HP is below 50%.,Deals 10 damage and gain Dodge x1.
+Forbidden Magic,Skill,1 ammo,1 ammo,Souls Rift,Deals damage equal to 25% of your HP.,Deals damage equal to 40% of your HP.
+Fall Into Water,Skill,1 ammo,1 ammo,Souls Rift,Deals 15 damage and adds 2 Handcuff to your draw pile.,Deals 21 damage and adds 2 Handcuff to your draw pile.
+Snatch Soul,Skill,1 ammo,NA,Souls Rift,Grabs an enemy towards you twice.,Grabs an enemy towards you twice.
+Venomous Snake,Skill,2 ammo,2 ammo,Souls Rift,Applies Injury equal to target's armor (max 15). Removed.,Applies Injury equal to target's armor (max 20). Removed.
+Awaken,Skill,1 ammo,1 ammo,Souls Rift,Deals 2 damage to a random target 15 times.,Deals 3 damage to a random target 15 times.
+Bully,Skill,1 ammo,NA,Souls Rift,"If your armor is higher than that of an enemy, remove all armor from it and deals damage to it equal to armor lost this way.","If your armor is higher than that of an enemy, remove all armor from it and deals damage to it equal to armor lost this way."
+The Best Defense…,Skill,1 ammo,1 ammo,Souls Rift,Gain 4 armor whenever you use an attack card this turn.,Gain 6 armor whenever you use an attack card this turn.
+Exorcize,Skill,2 ammo,2 ammo,Souls Rift,Deals 15 damage and remove all conditions from the target.,Deals 20 damage and remove all conditions from the target.
+Extract Soul,Skill,2 ammo,2 ammo,Souls Rift,Deals 12 damage to all enemies and removes all conditions.,Deals 16 damage to all enemies and removes all conditions.
+Sink,Skill,3 ammo,3 ammo,Souls Rift,Deals 20 damage. -1 ammo cost per 20 HP lost.,Deals 26 damage. -1 ammo cost per 20 HP lost.
+Ancient Potion,Skill,NA,NA,Souls Rift,Heal 3 whenever you use a skill card this turn. Removed.,Heal 5 whenever you use a skill card this turn. Removed.
+Sleight of Hand,Skill,NA,NA,Souls Rift,Transforms a Curse into a random card. Removed.,Transforms a Curse into a random upgraded card. Removed.
+Great Wave,Skill,3 ammo,3 ammo,Souls Rift,Deals 15 damage. -1 ammo cost to this card for the rest of battle.,Deals 20 damage. -1 ammo cost to this card for the rest of battle.
+Reinforce,Skill,2 ammo,2 ammo,Souls Rift,Doubles your armor. Removed.,Doubles your armor.
+Lightning Major,Skill,3 ammo,3 ammo,Souls Rift,Deals 12 damage to all enemies adds 2 Lightning Minor to your hand.,Deals 15 damage to all enemies adds 2 upgraded Lightning Minor to your hand.
+Lightning Minor,Skill,NA,NA,Souls Rift,Deals 5 damage. Removed.,Deals 7 damage. Removed.
+Surprise Present,Skill,1 ammo,NA,Souls Rift,Fills your hand with random upgraded cards. Removed.,Fills your hand with random upgraded cards. Removed.
+Magic Hammer,Skill,2 ammo,1 ammo,Souls Rift,Upgrades all skill cards in deck. Removed.,Upgrades all skill cards in deck. Removed.
+Nether Light,Skill,2 ammo,1 ammo,Souls Rift,Applies Mark x1 to all specter enemies.,Applies Mark x1 to all specter enemies.
+Shortcut,Skill,1 ammo,NA,Souls Rift,-1 ammo cost to all skill cards in hand this turn.,-1 ammo cost to all skill cards in hand this turn.
+Assistant,Skill,1 ammo,1 ammo,Souls Rift,Draw cards until you draw an attack card or your draw pile is empty.,Draw cards until you draw an attack card or your draw pile is empty.
+Endure,Skill,NA,NA,Souls Rift,Adds 1 Erupt into draw pile. Removed.,Adds 1 upgraded Erupt into draw pile. Removed.
+Erupt,Skill,1 ammo,NA,Souls Rift,Deals damage equal to the HP you have lost since you've used Endure. Removed.,Deals damage equal to the HP you have lost since you've used Endure. Removed.
+Horned Shield,Skill,2 ammo,2 ammo,Souls Rift,"Gains 8 armor. Until the start of your next turn, whenever you are attacked, deal 3 damage to the attacker.","Gains 8 armor. Until the start of your next turn, whenever you are attacked, deal 5 damage to the attacker."
+Armistice,Skill,-10 health,NA,Souls Rift,Consumable. Ends a non-boss battle.,Consumable. Ends a non-boss battle.
+Magic Sandglass,Skill,1 ammo,NA,Souls Rift,Consumable. Stop all enemies' action for 1 turn.,Consumable. Stop all enemies' action for 1 turn.
+Decay,Curse,NA,NA,Souls Rift,Unplayable. Gain Mark x1 when you draw this.,NA
+Parasite,Curse,NA,NA,Souls Rift,Unplayable. Take 5 damage per ammo remaining at end of turn.,NA
+Flaw,Curse,NA,NA,Souls Rift,Can be played. All enemies get +2 damage. Removed.,NA
+Voodoo,Curse,NA,NA,Souls Rift,Unplayable. Stay.,NA
+Dart Barrage,Melee,NA,NA,Lost Islands,Deals 4 damage. 50% chance to attack again (max 7 times).,Deals 6 damage. 50% chance to attack again (max 7 times).
+Blind Charge,Melee,NA,NA,Lost Islands,Deal damage to all enemies equal to your armor. Lose all armor.,Deal damage to all enemies equal to your armor. Lose 50% armor.
+Steal Shield,Melee,NA,NA,Lost Islands,Deals 6 damage. Gain armor equal to the amount of armor reduced this way.,Deals 9 damage. Gain armor equal to the amount of armor reduced this way.
+Poison Cone,Melee,NA,NA,Lost Islands,Deals 6 damage. Applies 6 Injury to Monster.,Deals 8 damage. Applies 8 Injury to Monster.
+Headlong Bash,Melee,NA,NA,Lost Islands,Chance. 75%: Deals 6 damage and applies 1 Mark. 25%: Deals 6 damage and gain 1 Mark.,Chance. 75%: Deals 9 damage and applies 1 Mark. 25%: Deals 9 damage and gain 1 Mark.
+Execute,Melee,NA,NA,Lost Islands,Deals 6 damage. Critical hit to enemies with lower HP than you.,Deals 9 damage. Critical hit to enemies with lower HP than you.
+Lash,Melee,NA,NA,Lost Islands,Deals 13 damage. Discard 1 random card.,Deals 16 damage. Discard 1 random card.
+Bone Spear,Melee,NA,NA,Lost Islands,Deals 6 damage. Critical hit to enemies with Weakened. Applies 1 Weakened against enemies without Weakened.,Deals 8 damage. Critical hit to enemies with Weakened. Applies 2 Weakened against enemies without Weakened.
+Dinner Time,Melee,NA,NA,Lost Islands,Deals 6 damage. 50% Lifesteal if you have less than 50% HP.,Deals 10 damage. 50% Lifesteal if you have less than 50% HP.
+Rope Knife,Melee,NA,NA,Lost Islands,Deals 8 damage. Shuffle this into your draw pile.,Deals 12 damage. Shuffle this into your draw pile.
+Rapid Fire,Ranged,1 ammo,1 ammo,Lost Islands,Deals 1 damage 6 times.,Deals 1 damage 7 times.
+Improvised Bomb,Ranged,1 ammo,1 ammo,Lost Islands,Deals 12 damage. Gain 3 Injury.,Deals 15 damage. Gain 3 Injury.
+Dynamite,Ranged,2 ammo,2 ammo,Lost Islands,Deals 18 damage. Remove this card if it is in your hand at end of turn.,Deals 22 damage. Remove this card if it is in your hand at end of turn.
+Throw Web,Ranged,1 ammo,1 ammo,Lost Islands,"Deals 6 damage. If target is a Monster, apply Stun. Removed.","Deals 9 damage. If target is a Monster, apply Stun. Removed."
+Arrow Rain,Ranged,2 ammo,2 ammo,Lost Islands,Deals 8 damage to all enemies. Crit if there are exactly 3 enemies.,Deals 10 damage to all enemies. Crit if there are exactly 3 enemies.
+Lock-On,Ranged,1 ammo,1 ammo,Lost Islands,Deals 6 damage. Critical hits deal 300% damage instead of 200%.,Deals 9 damage. Critical hits deal 300% damage instead of 200%.
+Octopus Express,Ranged,3 ammo,3 ammo,Lost Islands,"Deals 12 damage. If this card kills an enemy, permanently reduce ammo cost by 1. Removed.","Deals 15 damage. If this card kills an enemy, permanently reduce ammo cost by 1. Removed."
+Throw Rock,Ranged,2 ammo,2 ammo,Lost Islands,Deals 12 damage and knocks back the target. Critical hit to Heavy enemies.,Deals 15 damage and knocks back the target. Critical hit to Heavy enemies.
+Recoiling Gun,Ranged,3 ammo,3 ammo,Lost Islands,Deals 32 damage. Take 5 damage if this does not kill an enemy.,Deals 38 damage. Take 5 damage if this does not kill an enemy.
+Explosive Trap,Ranged,2 ammo,2 ammo,Lost Islands,Deals 8 damage to all enemies and applies 2 Weakened.,Deals 11 damage to all enemies and applies 2 Weakened.
+Spike Bomb,Ranged,1 ammo,1 ammo,Lost Islands,Deals 6 damage. Applies 4 Injury on critical hit.,Deals 7 damage. Applies 4 Injury on critical hit.
+Pearl Mussel,Skill,1 ammo,NA,Lost Islands,+1 max ammo (max 9). Removed.,+1 max ammo (max 9). Removed.
+Eye for an Eye,Skill,1 ammo,1 ammo,Lost Islands,"Until your next turn, enemies that deal attack damage to you take equal damage. Removed.","Until your next turn, enemies that deal attack damage to you take equal damage."
+Kraken Attack,Skill,2 ammo,2 ammo,Lost Islands,Deals 15 damage to all enemies with Weakened. Applies 1 Weakened against enemies without Weakened.,Deals 18 damage to all enemies with Weakened. Applies 2 Weakened against enemies without Weakened.
+Poisoned Banana,Skill,1 ammo,1 ammo,Lost Islands,Heal 10. Add 1 Handcuff to your draw pile. Removed.,Heal 13. Add 1 Handcuff to your draw pile. Removed.
+Purify,Skill,1 ammo,NA,Lost Islands,Remove all curses from your hand. +1 attack damage this battle for each card removed this way. Removed.,Remove all curses from your hand. +1 attack damage this battle for each card removed this way. Removed.
+Dilemma,Skill,NA,NA,Lost Islands,Remove 1 random card and reload 1. Removed.,Remove 1 card and reload 1. Removed.
+Amateur Salvage,Skill,1 ammo,1 ammo,Lost Islands,"Draw 2 cards, then remove 1 card. Removed.","Draw 3 cards, then remove 1 card. Removed."
+Knife Trick,Skill,3 ammo,3 ammo,Lost Islands,Fill your hand with Throw Knife.,Fill your hand with upgraded Throw Knife.
+Resupply,Skill,3 ammo,2 ammo,Lost Islands,"Draw until your hand is full. For each ranged attack card drawn this way, reload 1.","Draw until your hand is full. For each ranged attack card drawn this way, reload 1."
+Swap,Skill,NA,NA,Lost Islands,Discard 1 and draw 2 cards of the same type from draw pile.,Discard 1 and draw 3 cards of the same type from draw pile.
+Hypnosis,Skill,1 ammo,NA,Lost Islands,Stun and fully heal an enemy. Removed.,Stun and fully heal an enemy. Removed.
+Share Pain,Skill,1 ammo,NA,Lost Islands,Deal damage to all enemies equal to the number of Injury on target. Removed.,Deal damage to all enemies equal to the number of Injury on target.
+Seeing Red,Skill,X ammo,X ammo,Lost Islands,+X attack damage for the rest of battle. Removed.,+(X + 1) attack damage for the rest of battle. Removed.
+Irresistible Attraction,Skill,1 ammo,NA,Lost Islands,"Grab an enemy towards you, or apply 1 Mark if the target is Heavy. Removed.","Grab an enemy towards you, or apply 1 Mark if the target is Heavy. Removed."
+Banquet,Skill,3 ammo,2 ammo,Lost Islands,Heal 50% of HP lost. Removed.,Heal 50% of HP lost. Removed.
+Armor Breaker,Skill,1 ammo,NA,Lost Islands,"In this battle, all attacks are critical hits against enemies with armor. Removed.","In this battle, all attacks are critical hits against enemies with armor. Removed."
+Cursed Shield,Skill,NA,NA,Lost Islands,Lose 5 HP and gain 10 armor. Return this to your hand.,Lose 5 HP and gain 13 armor. Return this to your hand.
+Portable Banana,Skill,1 ammo,NA,Lost Islands,"If your HP is lower than your armor, heal until your HP is equal to your armor. Removed.","If your HP is lower than your armor, heal until your HP is equal to your armor. Removed."
+Untapped Potential,Skill,NA,NA,Lost Islands,Deals 12 damage. Gain 2 Weakened.,Deals 15 damage. Gain 2 Weakened.
+Counter Stance,Skill,1 ammo,1 ammo,Lost Islands,Gain 5 armor. Gain 1 Rage per enemy.,Gain 8 armor. Gain 1 Rage per enemy.
+Turtle Kneecap,Skill,1 ammo,1 ammo,Lost Islands,Can only be used if you have no armor. Gain 9 armor.,Can only be used if you have no armor. Gain 12 armor.
+Reveal Weakness,Skill,1 ammo,NA,Lost Islands,All characters gain 1 Mark. Removed.,All characters gain 1 Mark. Removed.
+Taunt,Skill,NA,NA,Lost Islands,"For each enemy that does not have Rage, draw 1. Apply 2 Rage on all enemies.","For each enemy that does not have Rage, draw 1. Apply 1 Rage on all enemies."
+Whale,Skill,1 ammo,1 ammo,Lost Islands,Deals 7 damage. Deals 15 damage to a random enemy when discarded by other cards or relics.,Deals 9 damage. Deals 20 damage to a random enemy when discarded by other cards or relics.
+Conserve Strength,Skill,2 ammo,2 ammo,Lost Islands,Gain 8 armor. Reload to max at the start of next turn.,Gain 11 armor. Reload to max at the start of next turn.
+Undercurrent,Skill,2 ammo,2 ammo,Lost Islands,Kill all enemies with less than 20 HP. Removed.,Kill all enemies with less than 25 HP. Removed.
+Reinforcements,Skill,NA,NA,Lost Islands,Reload 2 at the start of next turn.,Reload 3 at the start of next turn.
+Shore Menace,Skill,1 ammo,1 ammo,Lost Islands,Deals 12 damage. Return 1 card to your draw pile.,Deals 15 damage. Return 1 card to your draw pile.
+Battle Instinct,Skill,3 ammo,2 ammo,Lost Islands,All your attacks next turn are critical hits. Removed.,All your attacks next turn are critical hits. Removed.
+The Gift,Skill,NA,NA,Lost Islands,Consumable. +2 max ammo (max 9).,Consumable. +2 max ammo (max 9). Reload 2.
+Survival of the Fittest,Skill,NA,NA,Lost Islands,Consumable. Kill an enemy with less HP than you.,Consumable. Kill all enemy with less HP than you.
+Shoddy Workmanship,Curse,NA,NA,Lost Islands,"Unplayable. When this is in your hand, lose 3 HP whenever you reload.",NA
+Rusted Armor,Curse,NA,NA,Lost Islands,"Unplayable. When this is in your hand, lose 3 HP whenever you gain armor.",NA
+Rusted Weapon,Curse,NA,NA,Lost Islands,"Unplayable. When this is in your hand, gain 1 Injury whenever you attack.",NA
+Barnacle Infestation,Curse,NA,NA,Lost Islands,Unplayable. Lose 1 max HP when you draw this.,NA
+Tentacle Bind,Curse,NA,NA,Lost Islands,Unplayable. Can't play any cards if this is in your hand. Remove this at end of turn.,NA
+Hatchet,Melee,NA,NA,Northern Lands,Deals 9 damage to a random enemy.,Deals 13 damage to a random enemy.
+Heavy Hammer,Melee,NA,NA,Northern Lands,Deals 15 damage. Lose 2 HP per ammo remaining.,Deals 18 damage. Lose 2 HP per ammo remaining.
+Hammer Thrust,Melee,NA,NA,Northern Lands,Deals 7 damage. Critical hit if you have no ammo remaining.,Deals 10 damage. Critical hit if you have no ammo remaining.
+Ice Piercer,Melee,NA,NA,Northern Lands,Chance. 75%: Deals 6 damage. 25%: Deals 15 damage.,Chance. 75%: Deals 9 damage. 25%: Deals 20 damage.
+Back from the Brink,Melee,NA,NA,Northern Lands,Deals 6 damage. Deals 6 damage 2 times instead if you have no other attack cards in hand.,Deals 9 damage. Deals 9 damage 2 times instead if you have no other attack cards in hand.
+Probe,Melee,NA,NA,Northern Lands,Deals 6 damage. Add 1 Heavy Hack to your hand if this kills an enemy. Removed.,Deals 9 damage. Add 1 upgraded Heavy Hack to your hand if this kills an enemy. Removed.
+Heavy Hack,Melee,NA,NA,Northern Lands,Deals 12 damage.,Deals 15 damage.
+Mountain Hammer,Melee,NA,NA,Northern Lands,Deals 15 damage. This card deals -3 damage this battle.,Deals 18 damage. This card deals -3 damage this battle.
+Harpoon Thrust,Melee,NA,NA,Northern Lands,Deals 7 damage. Choose a card from your discard pile and put it on the top of your draw pile.,Deals 10 damage. Choose a card from your discard pile and put it on the top of your draw pile.
+Heavy Fist,Melee,NA,NA,Northern Lands,"Deals 7 damage. If all armor on target is removed this way, Stun the enemy.","Deals 10 damage. If all armor on target is removed this way, Stun the enemy."
+Vagabond's Trick,Ranged,1 ammo,1 ammo,Northern Lands,Deals 8 damage. Always hits when Drunk.,Deals 11 damage. Always hits when Drunk.
+Snowball,Ranged,1 ammo,1 ammo,Northern Lands,"Deals 6 damage. If ammo is at 0 after using, reload 2.","Deals 9 damage. If ammo is at 0 after using, reload 2."
+Icebreaker,Ranged,3 ammo,3 ammo,Northern Lands,"Deals 18 damage. On critical hit, -1 ammo cost to this card for the rest of battle.","Deals 22 damage. On critical hit, -1 ammo cost to this card for the rest of battle."
+Ice Spike,Ranged,? ammo,? ammo,Northern Lands,"Deals 12 damage. Costs 0-3 ammo, fixed when add to hand.","Deals 15 damage. Costs 0-3 ammo, fixed when add to hand."
+Frozen Shot,Ranged,1 ammo,1 ammo,Northern Lands,Deals 6 damage. 50% Lifesteal on critical hit.,Deals 9 damage. 50% Lifesteal on critical hit.
+Ice Arrow,Ranged,1 ammo,1 ammo,Northern Lands,"Deals 7 damage. If an enemy is killed this way, permanently increase max HP by 1. Removed.","Deals 10 damage. If an enemy is killed this way, permanently increase max HP by 1. Removed."
+Ice Missile,Ranged,1 ammo,1 ammo,Northern Lands,"Deals 6 damage. If this card is discarded by another card or relic, return it to hand and increase its damage by 3 for the rest of battle.","Deals 8 damage. If this card is discarded by another card or relic, return it to hand and increase its damage by 3 for the rest of battle."
+Duel,Ranged,2 ammo,2 ammo,Northern Lands,Deals 13 damage. Crit if there is exactly 1 enemy.,Deals 17 damage. Crit if there is exactly 1 enemy.
+Snow Barrage,Ranged,2 ammo,2 ammo,Northern Lands,"Deals 7 damage to a random enemy 2 times. If the 2nd attack hits the same target, the 2nd hit will be critical.","Deals 10 damage to a random enemy 2 times. If the 2nd attack hits the same target, the 2nd hit will be critical."
+Snow Cannon,Ranged,4 ammo,4 ammo,Northern Lands,Deals 18 damage. -1 ammo cost per enemy alive.,Deals 22 damage. -1 ammo cost per enemy alive.
+Dry Ammo,Skill,NA,NA,Northern Lands,Reload 1 and remove your condition.,Reload 2 and remove your condition.
+Bloody Shot,Skill,-3 health,-1 health,Northern Lands,Lose 3 HP and reload 1. Return this to your hand. +1 HP loss from this card this turn.,Lose 1 HP and reload 1. Return this to your hand. +1 HP loss from this card this turn.
+Painful Decision,Skill,-? health,-? Health,Northern Lands,Lose 50% of current HP. Reload to max and draw to max hand size. Removed.,Lose 50% of current HP. Reload to max and draw to max hand size.
+Wet Ammo,Skill,NA,NA,Northern Lands,Reload 2. Add a Rotted Wood to your draw pile.,Reload 3. Add a Rotted Wood to your draw pile.
+Grab Shield,Skill,1 ammo,1 ammo,Northern Lands,Target loses 50% armor and you gain that much armor. Removed.,Target loses 50% armor and you gain that much armor.
+Battered Buckler,Skill,1 ammo,1 ammo,Northern Lands,Gain 10 armor and 2 Fragile.,Gain 13 armor and 2 Fragile.
+Hull Shield,Skill,1 ammo,1 ammo,Northern Lands,"Gain 15 armor. For the rest of battle, lose 3 armor at the start of each turn.","Gain 18 armor. For the rest of battle, lose 3 armor at the start of each turn."
+Aggressive Defense,Skill,1 ammo,1 ammo,Northern Lands,Gain 5 armor. Gain 1 armor whenever you use an attack card this turn.,Gain 7 armor. Gain 2 armor whenever you use an attack card this turn.
+Ice Shield,Skill,1 ammo,NA,Northern Lands,Lose 50% of current HP. Gain up to the max amount of armor (max HP). Removed.,Lose 50% of current HP. Gain up to the max amount of armor (max HP). Removed.
+Cold Front,Skill,1 ammo,1 ammo,Northern Lands,Deals 6 damage. Deals 6 damage 3 times if you are Drunk.,Deals 8 damage. Deals 8 damage 3 times if you are Drunk.
+Hail,Skill,2 ammo,2 ammo,Northern Lands,Deals 8 damage to all enemies. Deals 24 damage instead if there is exactly 1 enemy.,Deals 10 damage to all enemies. Deals 30 damage instead if there is exactly 1 enemy.
+Blizzard,Skill,1 ammo,1 ammo,Northern Lands,Deals 12 damage. Add 2 Blizzard to your hand if this kills an enemy. Removed.,Deals 15 damage. Add 2 upgraded Blizzard to your hand if this kills an enemy. Removed.
+Ice Blast,Skill,1 ammo,1 ammo,Northern Lands,"Deals 8 damage. If this kills an enemy, reload 3.","Deals 11 damage. If this kills an enemy, reload 3."
+Recover,Skill,NA,NA,Northern Lands,Adds a random card from your discard pile to your hand. Removed.,Adds 2 random card from your discard pile to your hand. Removed.
+Stockpile,Skill,4 ammo,3 ammo,Northern Lands,Draw 3. -1 ammo cost per enemy alive.,Draw 3. -1 ammo cost per enemy alive.
+Gambler's Fallacy,Skill,2 ammo,2 ammo,Northern Lands,Can only be used when there are no other cards in hand. Draw 4.,Can only be used when there are no other cards in hand. Draw to max hand size.
+Emergency Rations,Skill,1 ammo,1 ammo,Northern Lands,"Until the start of your next turn, whenever you lose armor, you heal equal to the amount of armor lost. Removed.","Until the start of your next turn, whenever you lose armor, you heal equal to the amount of armor lost."
+Reap,Skill,1 ammo,NA,Northern Lands,All attacks have 25% Lifesteal this turn. Removed.,All attacks have 25% Lifesteal this turn. Removed.
+Snow Boots,Skill,1 ammo,1 ammo,Northern Lands,Gain 1 Dodge for each enemy that attempts to attack. Removed.,Gain 1 Dodge for each enemy that attempts to attack.
+Ice Crystal,Skill,NA,NA,Northern Lands,Unplayable. All attacks apply 1 Injury while this is in your hand.,Unplayable. All attacks apply 2 Injury while this is in your hand.
+Binge Drinking,Skill,1 ammo,1 ammo,Northern Lands,Gain 2 Drunk. Heal 3 whenever you deal a critical hit this turn.,Gain 3 Drunk. Heal 4 whenever you deal a critical hit this turn.
+Tank Killer,Skill,2 ammo,2 ammo,Northern Lands,Apply 1 Mark. Apply 1 additional Mark if target has armor. Removed.,Apply 1 Mark. Apply 1 additional Mark if target has armor.
+Crystallize,Skill,X ammo,X ammo,Northern Lands,Lose all ammo. Apply 5 x X Injury.,Lose all ammo. Apply 7 x X Injury.
+Sneak,Skill,1 ammo,NA,Northern Lands,"If enemy attempts to attack, Stun the enemy. Removed.","If enemy attempts to attack, Stun the enemy. Removed."
+Charge!,Skill,NA,NA,Northern Lands,Unplayable. All attacks have a 25% chance to crit when this is in your hand.,Unplayable. All attacks have a 40% chance to crit when this is in your hand.
+Freeze Weapon,Skill,3 ammo,2 ammo,Northern Lands,All enemies' attack becomes 0 for 1 turn. Removed.,All enemies' attack becomes 0 for 1 turn. Removed.
+Break Shield,Skill,3 ammo,2 ammo,Northern Lands,You gain +1 attack damage for each enemy with armor. All enemies lose all armor. Removed.,You gain +1 attack damage for each enemy with armor. All enemies lose all armor. Removed.
+Bluff,Skill,1 ammo,1 ammo,Northern Lands,"This turn, you gain +5 attack damage, and -1 attack damage after each attack.","This turn, you gain +6 attack damage, and -1 attack damage after each attack."
+Unfair Exchange,Skill,NA,NA,Northern Lands,"Remove 1 card from your hand, then add 2 random cards of the same type to your hand.","Remove 1 card from your hand, then add 2 upgraded random cards of the same type to your hand."
+Aid,Skill,2 ammo,1 ammo,Northern Lands,Add 3 random cards with Removed to your hand.,Add 3 random cards with Removed to your hand.
+Frozen Banana,Skill,1 ammo,1 ammo,Northern Lands,"Heal 5, then heal 5 more if you are Cold. Removed.","Heal 8, then heal 8 more if you are Cold. Removed."
+Quality Emphasis,Skill,1 ammo,NA,Northern Lands,Consumable. Upgrade all cards in deck.,Consumable. Upgrade all cards in deck.
+Ice Cyclone,Skill,NA,NA,Northern Lands,"Consumable. Deals 6 damage. If an enemy is killed this way, gain 30 Coins.","Consumable. Deals 9 damage. If an enemy is killed this way, gain 50 Coins."
+Downgrade,Curse,NA,NA,Northern Lands,Unplayable. Downgrade a random card in your hand when you draw this.,NA
+Ice Thorn,Curse,NA,NA,Northern Lands,Can be played. Gain 3 Injury. Removed.,NA
+Frost Seal,Curse,NA,NA,Northern Lands,Unplayable. Cannot gain armor while this is in your hand.,NA
+Delayed Mark,Curse,NA,NA,Northern Lands,Unplayable. Gain 1 Mark at the end of your turn.,NA
+Bayonet Lunge,Melee,NA,NA,Eastern Seas,Deals 6 damage. Deals 12 damage instead if your previous card was a ranged attack card.,Deals 9 damage. Deals 15 damage instead if your previous card was a ranged attack card.
+Blackjack,Melee,NA,NA,Eastern Seas,Deals 7 damage. Crit if there is exactly 1 enemy.,Deals 10 damage. Crit if there is exactly 1 enemy.
+Plumed Spear,Melee,NA,NA,Eastern Seas,Deals 6 damage. Deals 20 damage instead if you have 0 cards in your draw pile.,Deals 9 damage. Deals 25 damage instead if you have 0 cards in your draw pile.
+Armor Penetration,Melee,NA,NA,Eastern Seas,Deals 7 damage. Critical hit to enemies with armor. Penetration.,Deals 10 damage. Critical hit to enemies with armor. Penetration.
+Exorcist's Blade,Melee,NA,NA,Eastern Seas,Deals 6 damage. 50% Lifesteal on non-human enemy.,Deals 9 damage. 50% Lifesteal on non-human enemy.
+Shoulder Bash,Melee,NA,NA,Eastern Seas,Deals 8 damage. Deals critical hit and applies 1 Rage to enemy without condition.,Deals 11 damage. Deals critical hit and applies 1 Rage to enemy without condition.
+Drunken Fist,Melee,NA,NA,Eastern Seas,"Deals 2 damage 3 times. If you are Drunk, each hit increases the enxt attack's damage by 1. Always hits if you have 1-2 Drunk.","Deals 2 damage 4 times. If you are Drunk, each hit increases the enxt attack's damage by 1. Always hits if you have 1-2 Drunk."
+Furious Blow,Melee,NA,NA,Eastern Seas,Deals 6 damage + 2 damage per Rage that you have.,Deals 9 damage + 2 damage per Rage that you have.
+Spiked Hammer,Melee,NA,NA,Eastern Seas,Deals 6 damage. Critical hit to Injured enemies. Draw 1 card if enemy has 5 or more Injury.,Deals 9 damage. Critical hit to Injured enemies. Draw 1 card if enemy has 5 or more Injury.
+Throw Kunai,Melee,NA,NA,Eastern Seas,Deals 12 damage to the furthest enemy.,Deals 15 damage to the furthest enemy.
+Bayonet Shot,Ranged,1 ammo,1 ammo,Eastern Seas,Deals 6 damage. Deals 12 damage instead if your previous card was a melee attack card.,Deals 9 damage. Deals 15 damage instead if your previous card was a melee attack card.
+Surprise,Ranged,1 ammo,1 ammo,Eastern Seas,Deals 6 damage. Stun the enemy if target is at full HP.,Deals 9 damage. Stun the enemy if target is at full HP.
+Exorcist's Shot,Ranged,1 ammo,1 ammo,Eastern Seas,Deals 6 damage. This card's damage is increased by 1 this battle. +4 damage if target is not human.,Deals 9 damage. This card's damage is increased by 1 this battle. +5 damage if target is not human.
+Chraged Shot,Ranged,1 ammo,1 ammo,Eastern Seas,"Deals 5 damage. At the end of turn, this card's damage is increased by 5 if it is in your hand (max 50). Damage reset upon use. Stay.","Deals 7 damage. At the end of turn, this card's damage is increased by 7 if it is in your hand (max 70). Damage reset upon use. Stay."
+Spiked Bomb,Ranged,1 ammo,1 ammo,Eastern Seas,Deals 6 damage. Applies 4 Injury on enemies with armor.,Deals 9 damage. Applies 6 Injury on enemies with armor.
+Shifting Shot,Ranged,2 ammo,2 ammo,Eastern Seas,Discard a card. Deals 12 damage and causes additional effect based on the type of card discarded. Attack: Deals critical hit. Skill: Gain 50% Lifesteal. Curse: Apply 5 Injury.,Discard a card. Deals 16 damage and causes additional effect based on the type of card discarded. Attack: Deals critical hit. Skill: Gain 50% Lifesteal. Curse: Apply 5 Injury.
+Power Cannon,Ranged,2 ammo,2 ammo,Eastern Seas,Deals 10 damage. Crit chance equal to your remaining HP %.,Deals 13 damage. Crit chance equal to your remaining HP %.
+Shuriken Rain,Ranged,2 ammo,2 ammo,Eastern Seas,Deals 9 damage to all enemies. Critical hit to enemy with lowest HP.,Deals 12 damage to all enemies. Critical hit to enemy with lowest HP.
+Airstrike,Ranged,3 ammo,3 ammo,Eastern Seas,Deals 18 damage. -1 ammo cost this battle if target is a human.,Deals 22 damage. -1 ammo cost this battle if target is a human.
+Barrel Bundle,Ranged,3 ammo,3 ammo,Eastern Seas,Deals 36 damage. 25% chance to miss.,Deals 40 damage. 20% chance to miss.
+Tactical Stockpile,Skill,NA,NA,Eastern Seas,Reload 2 and put a card from your hand on top of your draw pile.,Reload 3 and put a card from your hand on top of your draw pile.
+Forced Reload,Skill,NA,NA,Eastern Seas,Can only be used if you have armor. Lose all armor and reload 3.,Can only be used if you have armor. Lose 50% armor and reload 3.
+Last Shell,Skill,NA,NA,Eastern Seas,Reload to max and end the turn. Removed.,Reload to max and end the turn.
+Plunder Ammo,Skill,3 ammo,2 ammo,Eastern Seas,Reload 2 at the start of each turn this battle. Removed.,Reload 2 at the start of each turn this battle. Removed.
+Stand Together,Skill,1 ammo,1 ammo,Eastern Seas,Gain 12 armor. All enemies gain 5 armor.,Gain 15 armor. All enemies gain 5 armor.
+Shield Stockpile,Skill,3 ammo,3 ammo,Eastern Seas,Gain 5 armor. Gain 5 armor at the start of each turn this battle. Removed.,Gain 6 armor. Gain 6 armor at the start of each turn this battle. Removed.
+Battered Fence,Skill,1 ammo,1 ammo,Eastern Seas,Gain 9 armor. All enemy attacks have Penetration until the start of your next turn.,Gain 12 armor. All enemy attacks have Penetration until the start of your next turn.
+Shield Feint,Skill,2 ammo,2 ammo,Eastern Seas,Gain 9 armor. Reload 2 the next time you lose all armor.,Gain 12 armor. Reload 2 the next time you lose all armor.
+Assault Horn,Skill,1 ammo,NA,Eastern Seas,"For the rest of this battle, you gain +1 attack damage for each enemy with higher HP than you. Removed.","For the rest of this battle, you gain +1 attack damage for each enemy with higher HP than you. Removed."
+Sacrifice,Skill,1 ammo,NA,Eastern Seas,Downgrade a card in your hand. +2 damage for the rest of this battle. +1 damage instead if you have no cards in hand available to downgrade.,Downgrade a card in your hand. +2 damage for the rest of this battle. +1 damage instead if you have no cards in hand available to downgrade.
+Forced Knowledge,Skill,1 ammo,1 ammo,Eastern Seas,Can only be used if you have armor. Lose all armor and draw 3 cards.,Can only be used if you have armor. Lose 50% armor and draw 3 cards.
+Exotic Present,Skill,1 ammo,1 ammo,Eastern Seas,"Draw 1 card, then draw 1 more card for each non-human enemy.","Draw 2 cards, then draw 1 more card for each non-human enemy."
+Tactical Combination,Skill,1 ammo,1 ammo,Eastern Seas,Adds 1 random skill card and 1 random attack card from your draw pile to your hand. Removed.,Adds 1 random skill card and 1 random attack card from your draw pile to your hand.
+Watch and Wait,Skill,3 ammo,3 ammo,Eastern Seas,"Draw 4 cards. At the end of turn, this card's ammo cost is reduced by 1 if it is in your hand. Ammo cost reset upon use. Stay.","Draw 5 cards. At the end of turn, this card's ammo cost is reduced by 1 if it is in your hand. Ammo cost reset upon use. Stay."
+Quick Upgrade,Skill,1 ammo,NA,Eastern Seas,"Draw 1 card, then upgrade it.","Draw 1 card, then upgrade it."
+Spoiles of the Hunt,Skill,2 ammo,2 ammo,Eastern Seas,"Heal 10, -1 ammo cost if your HP is below 50%.","Heal 13, -1 ammo cost if your HP is below 50%."
+Eat Urchin,Skill,1 ammo,1 ammo,Eastern Seas,"Heal 10 and apply 3 Injury. If target is an enemy, apply 6 Injury instead.","Heal 12 and apply 3 Injury. If target is an enemy, apply 8 Injury instead."
+Eat Banana,Skill,1 ammo,1 ammo,Eastern Seas,Heal 9 at the end of battle. Removed.,Heal 12 at the end of battle. Removed.
+Staff Sweep,Skill,2 ammo,1 ammo,Eastern Seas,Stun all enemies without armor. Removed.,Stun all enemies without armor. Removed.
+Explosive Armor,Skill,2 ammo,2 ammo,Eastern Seas,Deals damage to all enemies equal to your armor. Double damage to enemies with armor. Lose 5 armor.,Deals damage to all enemies equal to your armor. Double damage to enemies with armor.
+Risk and Reward,Skill,1 ammo,1 ammo,Eastern Seas,Draw 2 cards. End the turn if no attack cards are drawn.,Draw 3 card. End the turn if no attack cards are drawn.
+Divine Favor,Skill,2 ammo,2 ammo,Eastern Seas,Adds 1 random Consumable card to your hand. Removed.,Adds 1 random upgraded Consumable card to your hand. Removed.
+Ghostfire,Skill,1 ammo,1 ammo,Eastern Seas,Deals 8 damage and applies 1 random negative condition.,Deals 11 damage and applies 2 random negative condition.
+Insulting Trap,Skill,1 ammo,1 ammo,Eastern Seas,"Applies 4 Injury. If enemy has Injury, applies 8 Injury instead.","Applies 6 Injury. If enemy has Injury, applies 10 Injury instead."
+Impervious Shell,Skill,NA,NA,Eastern Seas,Gain 1 Immunity per enemy.,Gain 2 Immunity per enemy.
+War Drum,Skill,NA,NA,Eastern Seas,"Gain 1 Rage, or apply 1 Weakened on the enemy.","Gain 2 Rage, or apply 2 Weakened on the enemy."
+Flashbang,Skill,NA,NA,Eastern Seas,Deals 8 damage toa ll non-human enemies and applies 1 Weakened.,Deals 10 damage toa ll non-human enemies and applies 1 Weakened.
+Banana Boomerang,Skill,1 ammo,1 ammo,Eastern Seas,Deals 6 damage. Heal 6 to you if target is human.,Deals 9 damage. Heal 9 to you if target is human.
+Flash of Lightning,Skill,1 ammo,1 ammo,Eastern Seas,Deals 6 damage. Deals 12 damage instead if target is at full HP. Target max HP reduced to its current HP.,Deals 9 damage. Deals 18 damage instead if target is at full HP. Target max HP reduced to its current HP.
+Killing Blow,Skill,1 ammo,1 ammo,Eastern Seas,Kill an enemy with less HP than you. Max HP reduced by 2. Removed.,Kill an enemy with less HP than you. Max HP reduced by 1. Removed.
+Thorny Banana,Skill,1 ammo,1 ammo,Eastern Seas,Deals damage equal to target's Injury. You heal an equal amount. Removed.,Deals damage equal to target's Injury. You heal an equal amount.
+Artisan's Blessing,Skill,1 ammo,1 ammo,Eastern Seas,Upgrade all cards in your hand. Draw 1 card. Removed.,Upgrade all cards in your hand. Draw 1 card.
+Storm,Skill,1 ammo,1 ammo,Eastern Seas,Consumable. Can only be used if there are 2 or more enemies. Kill the enemy with the lowest HP. Cannot kill enemies with more than 100 HP.,Consumable. Can only be used if there are 2 or more enemies. Kill the enemy with the lowest HP. Cannot kill enemies with more than 150 HP.
+Impregnable,Skill,1 ammo,NA,Eastern Seas,Consumable. Gain up to the max amount of armor (max HP).,Consumable. Gain up to the max amount of armor (max HP).
+Execution,Curse,NA,NA,Eastern Seas,Unplayable. Lose 5 HP when discarded by another card or relic.,NA
+Stolen Banana,Curse,NA,NA,Eastern Seas,Unplayable. All enemies heal 5 HP when this is drawn.,NA
+Enemy Reinforcements,Curse,NA,NA,Eastern Seas,Unplayable. All enemies gain 2 Rage when this is drawn.,NA
+Unwelcome Present,Curse,NA,NA,Eastern Seas,Can be played. Choose a card in your hand and return it to your draw pile. Take 10 damage if you have no other cards in hand. Removed.,NA
+Impaled,Curse,2 ammo,NA,Eastern Seas,"Can be played. When this is in your hand, all enemies' attacks always hit. Stay. Removed.",NA
